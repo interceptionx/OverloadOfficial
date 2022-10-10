@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "binu bald af",
+      "saleItem": {
+        "id": 11806,
+        "amount": 1
+      },
+      "price": 25000,
+      "timeListed": 1635795573002,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

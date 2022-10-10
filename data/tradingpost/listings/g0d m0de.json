@@ -1,0 +1,37 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "g0d m0de",
+      "lastBuyerName": "Danny Jones",
+      "saleItem": {
+        "id": 11283,
+        "amount": 2
+      },
+      "price": 75000,
+      "timeListed": 1634475753280,
+      "amountSold": 2,
+      "profit": 75000,
+      "transactionTime": 1635703349146,
+      "buyersInfo": [
+        "Ling Xiaoyu",
+        "Danny Jones"
+      ]
+    },
+    {
+      "sellerName": "g0d m0de",
+      "lastBuyerName": "Care Plane",
+      "saleItem": {
+        "id": 2944,
+        "amount": 8
+      },
+      "price": 1500000,
+      "timeListed": 1635381746663,
+      "amountSold": 1,
+      "profit": 1500000,
+      "transactionTime": 1635437235201,
+      "buyersInfo": [
+        "Care Plane"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "thunderboom7",
+      "lastBuyerName": "NOT BUY",
+      "saleItem": {
+        "id": 30228,
+        "amount": 1
+      },
+      "price": 1200000,
+      "timeListed": 1635486698273,
+      "amountSold": 1,
+      "profit": 1200000,
+      "transactionTime": 1635873943233,
+      "buyersInfo": [
+        "NOT BUY"
+      ]
+    },
+    {
+      "sellerName": "thunderboom7",
+      "lastBuyerName": "Chaotic Alt",
+      "saleItem": {
+        "id": 21003,
+        "amount": 1
+      },
+      "price": 600000,
+      "timeListed": 1635486710281,
+      "amountSold": 1,
+      "profit": 600000,
+      "transactionTime": 1635865377976,
+      "buyersInfo": [
+        "Chaotic Alt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "iliillililil",
+      "saleItem": {
+        "id": 12899,
+        "amount": 2
+      },
+      "price": 400000,
+      "timeListed": 1633772350934,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "iliillililil",
+      "lastBuyerName": "Anonymous",
+      "saleItem": {
+        "id": 16263,
+        "amount": 6
+      },
+      "price": 3500000,
+      "timeListed": 1635193200742,
+      "amountSold": 6,
+      "profit": 21000000,
+      "transactionTime": 1636543978633,
+      "buyersInfo": [
+        "Anonymous",
+        "Anonymous"
+      ]
+    },
+    {
+      "sellerName": "iliillililil",
+      "saleItem": {
+        "id": 30038,
+        "amount": 1
+      },
+      "price": 3900000,
+      "timeListed": 1635202809810,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

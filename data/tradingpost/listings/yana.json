@@ -1,0 +1,91 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "yana",
+      "lastBuyerName": "Hollywood Ud",
+      "saleItem": {
+        "id": 22978,
+        "amount": 1
+      },
+      "price": 940000,
+      "timeListed": 1636554168732,
+      "amountSold": 1,
+      "profit": 940000,
+      "transactionTime": 1636646956696,
+      "buyersInfo": [
+        "Hollywood Ud"
+      ]
+    },
+    {
+      "sellerName": "yana",
+      "saleItem": {
+        "id": 21633,
+        "amount": 2
+      },
+      "price": 200000,
+      "timeListed": 1636554180137,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "yana",
+      "lastBuyerName": "Whipping",
+      "saleItem": {
+        "id": 21018,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636554192139,
+      "amountSold": 1,
+      "profit": 500000,
+      "transactionTime": 1636751617792,
+      "buyersInfo": [
+        "Whipping"
+      ]
+    },
+    {
+      "sellerName": "yana",
+      "lastBuyerName": "666",
+      "saleItem": {
+        "id": 12904,
+        "amount": 1
+      },
+      "price": 340000,
+      "timeListed": 1636554222134,
+      "amountSold": 1,
+      "profit": 340000,
+      "transactionTime": 1636694456495,
+      "buyersInfo": [
+        "666"
+      ]
+    },
+    {
+      "sellerName": "yana",
+      "saleItem": {
+        "id": 12102,
+        "amount": 1
+      },
+      "price": 990000,
+      "timeListed": 1636554228134,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "yana",
+      "saleItem": {
+        "id": 22975,
+        "amount": 1
+      },
+      "price": 95000,
+      "timeListed": 1636554233539,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "pking kid l",
+      "saleItem": {
+        "id": 30016,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1636400524217,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

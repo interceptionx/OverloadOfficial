@@ -1,0 +1,85 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "kaite",
+      "saleItem": {
+        "id": 22636,
+        "amount": 75
+      },
+      "price": 4000,
+      "timeListed": 1635858136960,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kaite",
+      "saleItem": {
+        "id": 1049,
+        "amount": 1
+      },
+      "price": 1200000,
+      "timeListed": 1636140940292,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kaite",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 600000,
+      "timeListed": 1636210773964,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kaite",
+      "saleItem": {
+        "id": 22002,
+        "amount": 1
+      },
+      "price": 230000,
+      "timeListed": 1636292396202,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kaite",
+      "lastBuyerName": "Whipping",
+      "saleItem": {
+        "id": 21018,
+        "amount": 1
+      },
+      "price": 600000,
+      "timeListed": 1636390357520,
+      "amountSold": 1,
+      "profit": 600000,
+      "transactionTime": 1636751623190,
+      "buyersInfo": [
+        "Whipping"
+      ]
+    },
+    {
+      "sellerName": "kaite",
+      "saleItem": {
+        "id": 22631,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636390374334,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "jesus",
+      "saleItem": {
+        "id": 13264,
+        "amount": 3
+      },
+      "price": 79999,
+      "timeListed": 1635092866723,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "jesus",
+      "saleItem": {
+        "id": 2944,
+        "amount": 3
+      },
+      "price": 1299999,
+      "timeListed": 1635877059731,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "jesus",
+      "saleItem": {
+        "id": 10348,
+        "amount": 1
+      },
+      "price": 9999999,
+      "timeListed": 1635958836052,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

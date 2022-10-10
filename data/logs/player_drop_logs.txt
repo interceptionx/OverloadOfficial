@@ -1,0 +1,468 @@
+[30 Oct 2021, 1:55:10 pm] [Ferox GameThread] Player Patrick dropped item 1x Sanfew serum(4) (id 10925) at X: 1210, Y: 3552
+[31 Oct 2021, 2:14:29 pm] [Ferox GameThread] Player Patrick dropped item 1x Sanfew serum(4) (id 10925) at X: 3080, Y: 3511
+[01 Nov 2021, 4:10:20 pm] [Ferox GameThread] Player Patrick dropped item 1x Sanfew serum(4) (id 10925) at X: 3080, Y: 3510
+[01 Nov 2021, 4:10:20 pm] [Ferox GameThread] Player Patrick dropped item 1x Sanfew serum(4) (id 10925) at X: 3080, Y: 3510
+[01 Nov 2021, 4:15:03 pm] [Ferox GameThread] Player Patrick dropped item 1x Saradomin brew(4) (id 6685) at X: 3314, Y: 5292
+[01 Nov 2021, 4:16:47 pm] [Ferox GameThread] Player Patrick dropped item 679000x Blood money (id 13307) at X: 3311, Y: 5279
+[01 Nov 2021, 6:28:10 pm] [Ferox GameThread] Player Patrick dropped item 1x Vial (id 229) at X: 3308, Y: 5290
+[01 Nov 2021, 6:28:11 pm] [Ferox GameThread] Player Patrick dropped item 1x Vial (id 229) at X: 3308, Y: 5290
+[01 Nov 2021, 6:56:46 pm] [Ferox GameThread] Player Patrick dropped item 1x Saradomin brew(4) (id 6685) at X: 3301, Y: 5193
+[01 Nov 2021, 7:13:50 pm] [Ferox GameThread] Player Patrick dropped item 1x Staff of balance (id 24144) at X: 1246, Y: 3560
+[01 Nov 2021, 7:14:29 pm] [Ferox GameThread] Player Patrick dropped item 1x Saradomin brew(4) (id 6685) at X: 1246, Y: 3560
+[02 Nov 2021, 10:30:48 am] [Ferox GameThread] Player Patrick dropped item 1x null (id 16464) at X: 3080, Y: 3508
+[02 Nov 2021, 11:02:07 am] [Ferox GameThread] Player Patrick dropped item 1x Snow sprite (id 21864) at X: 3081, Y: 3504
+[02 Nov 2021, 11:02:46 am] [Ferox GameThread] Player Patrick dropped item 123x Snowball (id 10501) at X: 3081, Y: 3504
+[02 Nov 2021, 11:05:37 am] [Ferox GameThread] Player Patrick dropped item 1x Green cape (id 1027) at X: 3081, Y: 3504
+[02 Nov 2021, 1:27:48 pm] [Ferox GameThread] Player Patrick dropped item 1x Orange dye (id 1769) at X: 3087, Y: 3508
+[02 Nov 2021, 2:07:04 pm] [Ferox GameThread] Player Patrick dropped item 1x Yellow dye (id 1765) at X: 3100, Y: 3509
+[02 Nov 2021, 2:54:32 pm] [Ferox GameThread] Player Patrick dropped item 1x Armadyl chainskirt (id 11830) at X: 3310, Y: 5277
+[02 Nov 2021, 2:54:32 pm] [Ferox GameThread] Player Patrick dropped item 1x Armadyl chestplate (id 11828) at X: 3310, Y: 5277
+[24 Nov. 2021, 6:36:37 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Donator ticket (id 4067) at X: 3093, Y: 3501
+[03 Dec. 2021, 9:17:27 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Bandos tassets (id 11834) at X: 3096, Y: 3528
+[03 Dec. 2021, 9:41:56 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Bandos tassets (id 11834) at X: 3095, Y: 3528
+[09 Dec. 2021, 3:34:00 p.m.] [Ferox GameThread] Player Xmas dropped item 1x Red sweets (id 4562) at X: 3107, Y: 3507
+[09 Dec. 2021, 10:19:48 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Present (id 13656) at X: 3089, Y: 3501
+[09 Dec. 2021, 10:22:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Present (id 13656) at X: 3089, Y: 3501
+[09 Dec. 2021, 10:40:44 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Present (id 13656) at X: 3091, Y: 3502
+[11 Dec. 2021, 2:09:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3100, Y: 3574
+[11 Dec. 2021, 2:13:32 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3201, Y: 3752
+[11 Dec. 2021, 2:13:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3203, Y: 3752
+[11 Dec. 2021, 2:28:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3198, Y: 3773
+[11 Dec. 2021, 2:28:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3198, Y: 3773
+[11 Dec. 2021, 2:28:05 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3198, Y: 3773
+[12 Dec. 2021, 12:34:22 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3088, Y: 3960
+[12 Dec. 2021, 12:34:26 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3087, Y: 3960
+[12 Dec. 2021, 12:34:32 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Giant present (id 20836) at X: 3091, Y: 3960
+[13 Dec. 2021, 7:58:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30236) at X: 3093, Y: 3483
+[13 Dec. 2021, 8:22:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 3302) at X: 3093, Y: 3483
+[13 Dec. 2021, 8:23:22 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Moonlight mead(2) (id 5813) at X: 3093, Y: 3483
+[13 Dec. 2021, 8:24:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1003x null (id 33300) at X: 3093, Y: 3483
+[13 Dec. 2021, 8:26:25 p.m.] [Ferox GameThread] Player Zoo dropped item 1000x Winter token (id 33300) at X: 3093, Y: 3484
+[13 Dec. 2021, 8:27:49 p.m.] [Ferox GameThread] Player Zoo dropped item 1000x Winter token (id 33300) at X: 3094, Y: 3484
+[13 Dec. 2021, 8:28:29 p.m.] [Ferox GameThread] Player Zoo dropped item 1000x H'ween token (id 30235) at X: 3095, Y: 3484
+[13 Dec. 2021, 8:31:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Winter token (id 33300) at X: 3095, Y: 3484
+[13 Dec. 2021, 8:31:34 p.m.] [Ferox GameThread] Player Zoo dropped item 10000x Winter token (id 33300) at X: 3093, Y: 3485
+[13 Dec. 2021, 8:35:32 p.m.] [Ferox GameThread] Player Zoo dropped item 2x Winter token (id 33300) at X: 3093, Y: 3484
+[13 Dec. 2021, 8:38:22 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 33301) at X: 3093, Y: 3484
+[13 Dec. 2021, 8:38:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Winter token (id 33300) at X: 3095, Y: 3484
+[13 Dec. 2021, 8:38:47 p.m.] [Ferox GameThread] Player Zoo dropped item 1000x H'ween token (id 30235) at X: 3095, Y: 3485
+[13 Dec. 2021, 8:38:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1000x H'ween token (id 30235) at X: 3095, Y: 3485
+[13 Dec. 2021, 8:40:05 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 26032) at X: 3095, Y: 3484
+[13 Dec. 2021, 8:40:43 p.m.] [Ferox GameThread] Player Zoo dropped item 100x Winter token (id 33300) at X: 3095, Y: 3484
+[13 Dec. 2021, 8:43:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween token (id 30235) at X: 3093, Y: 3485
+[13 Dec. 2021, 8:45:50 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Winter token (id 33300) at X: 3094, Y: 3485
+[13 Dec. 2021, 8:47:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween token (id 30235) at X: 3093, Y: 3485
+[13 Dec. 2021, 8:50:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Winter token (id 32236) at X: 3093, Y: 3485
+[13 Dec. 2021, 8:50:43 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Winter token (id 32236) at X: 3093, Y: 3485
+[13 Dec. 2021, 8:50:56 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x Winter token (id 32236) at X: 3093, Y: 3485
+[13 Dec. 2021, 8:51:00 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x Winter token (id 32236) at X: 3091, Y: 3485
+[14 Dec. 2021, 1:31:06 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Elder ice maul (id 30005) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:31:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Dragon hunter crossbow (t) (id 25916) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:31:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Frost whip (id 12774) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:31:13 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Frost claws (id 30001) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:31:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Armadyl frostsword (id 30003) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:31:18 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Cyan partyhat (id 24950) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:31:29 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Elder ice maul (id 30005) at X: 3086, Y: 3507
+[14 Dec. 2021, 1:44:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Haunted sled (id 30239) at X: 3085, Y: 3502
+[15 Dec. 2021, 2:23:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 2:23:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 32235) at X: 3092, Y: 3480
+[15 Dec. 2021, 3:24:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Dharok's armour set (id 12877) at X: 3092, Y: 3485
+[15 Dec. 2021, 3:36:55 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3092, Y: 3481
+[15 Dec. 2021, 3:37:19 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3092, Y: 3481
+[15 Dec. 2021, 3:38:30 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3481
+[15 Dec. 2021, 3:38:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3481
+[15 Dec. 2021, 3:39:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3481
+[15 Dec. 2021, 3:40:29 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 3:40:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 3:41:22 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 3:41:43 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 3:42:06 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 3:43:20 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 3:44:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3093, Y: 3485
+[15 Dec. 2021, 5:42:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween item casket (id 30242) at X: 3107, Y: 3510
+[15 Dec. 2021, 7:48:43 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Imbued saradomin cape (id 23607) at X: 3092, Y: 3485
+[15 Dec. 2021, 9:40:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Limpwurt seed (id 5100) at X: 3092, Y: 3503
+[15 Dec. 2021, 9:45:42 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30017) at X: 3090, Y: 3503
+[15 Dec. 2021, 9:45:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30017) at X: 3090, Y: 3503
+[15 Dec. 2021, 9:49:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Snowbird (id 30017) at X: 3090, Y: 3503
+[15 Dec. 2021, 9:50:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Green d'hide body (g) (id 7370) at X: 3089, Y: 3502
+[15 Dec. 2021, 9:52:14 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Snowbird (id 30017) at X: 3089, Y: 3502
+[15 Dec. 2021, 9:55:26 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Snowbird (id 30017) at X: 3089, Y: 3501
+[15 Dec. 2021, 10:02:38 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Eternal boots (id 23644) at X: 3086, Y: 3507
+[16 Dec. 2021, 2:29:06 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anglerfish (id 13441) at X: 3091, Y: 3501
+[16 Dec. 2021, 2:29:06 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anglerfish (id 13441) at X: 3091, Y: 3501
+[16 Dec. 2021, 2:29:07 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anglerfish (id 13441) at X: 3093, Y: 3501
+[16 Dec. 2021, 2:40:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 15017) at X: 3091, Y: 3502
+[16 Dec. 2021, 2:45:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30019) at X: 3091, Y: 3503
+[16 Dec. 2021, 2:51:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Elvarg Jr (id 30019) at X: 3090, Y: 3503
+[16 Dec. 2021, 2:51:20 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Elvarg Jr (id 30019) at X: 3090, Y: 3502
+[16 Dec. 2021, 2:54:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Elvarg Jr (id 30019) at X: 3094, Y: 3502
+[28 Dec. 2021, 8:46:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Rune pickaxe (id 1275) at X: 3285, Y: 3364
+[28 Dec. 2021, 9:12:34 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Copper ore (id 436) at X: 3087, Y: 3506
+[29 Dec. 2021, 5:19:00 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Raw shrimps (id 317) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:19:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:19:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:20:01 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:20:26 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:20:48 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:21:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:21:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:21:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:22:16 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:23:35 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:24:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:24:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:24:54 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:25:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:25:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:26:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:26:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:27:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:27:20 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:29:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ancestral key (id 6792) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:40:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 33333) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:41:02 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:44:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:44:44 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 33333) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:48:59 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 33333) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:49:05 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:52:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:52:54 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3093, Y: 3503
+[29 Dec. 2021, 5:53:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:54:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier I (id 23490) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:54:42 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier III (id 14901) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:56:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3094, Y: 3503
+[29 Dec. 2021, 5:59:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3094, Y: 3503
+[29 Dec. 2021, 6:00:14 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3094, Y: 3503
+[29 Dec. 2021, 6:00:24 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3095, Y: 3503
+[29 Dec. 2021, 6:03:56 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3094, Y: 3504
+[29 Dec. 2021, 6:08:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3093, Y: 3503
+[29 Dec. 2021, 6:09:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3093, Y: 3503
+[29 Dec. 2021, 6:29:26 p.m.] [Ferox GameThread] Player Zoo dropped item 2x Lava key (id 33333) at X: 3092, Y: 3501
+[29 Dec. 2021, 6:29:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3092, Y: 3502
+[29 Dec. 2021, 6:31:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key (id 423) at X: 3092, Y: 3501
+[29 Dec. 2021, 6:31:44 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Dragon crossbow (id 21902) at X: 3092, Y: 3502
+[29 Dec. 2021, 6:35:35 p.m.] [Ferox GameThread] Player Zoo dropped item 2x Lava key (id 33333) at X: 3092, Y: 3502
+[29 Dec. 2021, 6:36:50 p.m.] [Ferox GameThread] Player Zoo dropped item 2x Lava key (id 33333) at X: 3091, Y: 3503
+[29 Dec. 2021, 6:37:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3091, Y: 3502
+[29 Dec. 2021, 6:38:47 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3092, Y: 3503
+[29 Dec. 2021, 6:38:51 p.m.] [Ferox GameThread] Player Zoo dropped item 2x Slayer key (id 3269) at X: 3093, Y: 3503
+[29 Dec. 2021, 6:39:39 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3093, Y: 3503
+[29 Dec. 2021, 6:40:27 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 33333) at X: 3094, Y: 3503
+[29 Dec. 2021, 7:26:10 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 9651) at X: 3090, Y: 3502
+[29 Dec. 2021, 7:26:57 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 9651) at X: 3090, Y: 3502
+[29 Dec. 2021, 7:30:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava key (id 9651) at X: 3091, Y: 3502
+[29 Dec. 2021, 7:36:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3092, Y: 3503
+[29 Dec. 2021, 7:36:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3092, Y: 3503
+[29 Dec. 2021, 7:37:18 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Wilderness key (id 13302) at X: 3092, Y: 3503
+[29 Dec. 2021, 7:39:14 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3091, Y: 3502
+[29 Dec. 2021, 9:56:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3094, Y: 3503
+[29 Dec. 2021, 9:58:16 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3094, Y: 3503
+[29 Dec. 2021, 9:58:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3093, Y: 3503
+[29 Dec. 2021, 9:59:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3093, Y: 3503
+[29 Dec. 2021, 10:01:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3089, Y: 3518
+[29 Dec. 2021, 10:02:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Robin hood hat (id 2581) at X: 3089, Y: 3499
+[29 Dec. 2021, 10:49:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Dragonfire shield (id 11283) at X: 3091, Y: 3859
+[30 Dec. 2021, 11:37:11 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3092, Y: 3502
+[30 Dec. 2021, 1:08:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3086, Y: 3858
+[30 Dec. 2021, 1:17:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier I (id 23490) at X: 3086, Y: 3858
+[30 Dec. 2021, 1:17:49 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Twisted ancestral colour kit (id 24670) at X: 3086, Y: 3858
+[30 Dec. 2021, 1:34:29 p.m.] [Ferox GameThread] Player Zoo dropped item 6x Molten key (id 9651) at X: 3092, Y: 3503
+[30 Dec. 2021, 1:34:33 p.m.] [Ferox GameThread] Player Zoo dropped item 6x Molten key (id 9651) at X: 3092, Y: 3503
+[31 Dec. 2021, 12:55:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3094, Y: 3497
+[31 Dec. 2021, 12:55:57 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Donator Mystery Box (id 30185) at X: 3095, Y: 3497
+[31 Dec. 2021, 1:11:38 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween Mystery Box (id 30186) at X: 3094, Y: 3497
+[31 Dec. 2021, 1:18:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3497
+[31 Dec. 2021, 1:18:13 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween Mystery Box (id 30186) at X: 3095, Y: 3497
+[31 Dec. 2021, 1:19:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3095, Y: 3496
+[31 Dec. 2021, 1:20:48 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:21:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:21:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:29:18 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:33:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:35:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:36:01 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3095, Y: 3496
+[31 Dec. 2021, 1:36:13 p.m.] [Ferox GameThread] Player Zoo dropped item 1x H'ween Mystery Box (id 30186) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:40:22 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:40:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3094, Y: 3496
+[31 Dec. 2021, 1:40:34 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3095, Y: 3496
+[31 Dec. 2021, 1:44:19 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3495
+[31 Dec. 2021, 1:45:39 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3495
+[31 Dec. 2021, 1:45:49 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3495
+[31 Dec. 2021, 1:46:22 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3495
+[31 Dec. 2021, 1:48:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava eel (id 2149) at X: 3094, Y: 3497
+[31 Dec. 2021, 1:48:55 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30064) at X: 3093, Y: 3495
+[31 Dec. 2021, 2:34:10 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 33333) at X: 3093, Y: 3495
+[31 Dec. 2021, 3:25:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten key (id 9651) at X: 3091, Y: 3501
+[31 Dec. 2021, 6:47:30 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 23006) at X: 3093, Y: 3503
+[31 Dec. 2021, 6:47:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Samurai kasa (id 20036) at X: 3093, Y: 3503
+[31 Dec. 2021, 6:47:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 23006) at X: 3091, Y: 3502
+[31 Dec. 2021, 6:47:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 23006) at X: 3090, Y: 3502
+[31 Dec. 2021, 6:47:50 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Samurai kasa (id 20036) at X: 3090, Y: 3502
+[31 Dec. 2021, 6:49:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Rune fire arrow (id 2540) at X: 3090, Y: 3502
+[31 Dec. 2021, 7:02:27 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Amulet of torture (id 19553) at X: 3080, Y: 3509
+[31 Dec. 2021, 7:02:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Primordial boots (id 13239) at X: 3080, Y: 3509
+[31 Dec. 2021, 7:04:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Weapon Mystery Box (id 16451) at X: 3084, Y: 3501
+[31 Dec. 2021, 7:04:24 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 23006) at X: 3084, Y: 3501
+[31 Dec. 2021, 8:12:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30028) at X: 3086, Y: 3505
+[31 Dec. 2021, 8:12:44 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava d'hide coif (id 30074) at X: 3085, Y: 3505
+[31 Dec. 2021, 8:12:49 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3086, Y: 3505
+[31 Dec. 2021, 8:12:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Legendary Mystery Box (id 16454) at X: 3086, Y: 3505
+[31 Dec. 2021, 8:13:07 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Lava d'hide body (id 30077) at X: 3093, Y: 3534
+[31 Dec. 2021, 8:53:37 p.m.] [Ferox GameThread] Player Zoo dropped item 100001x Molten key (id 9651) at X: 3087, Y: 3859
+[31 Dec. 2021, 8:53:48 p.m.] [Ferox GameThread] Player Zoo dropped item 100001x Molten key (id 9651) at X: 3087, Y: 3859
+[01 Jan. 2022, 4:18:22 p.m.] [Ferox GameThread] Player Zoo dropped item 4x Molten key (id 30029) at X: 3090, Y: 3527
+[01 Jan. 2022, 8:50:43 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3091, Y: 3503
+[01 Jan. 2022, 8:50:51 p.m.] [Ferox GameThread] Player Zoo dropped item 4x Molten key (id 30029) at X: 3092, Y: 3502
+[01 Jan. 2022, 8:51:03 p.m.] [Ferox GameThread] Player Zoo dropped item 4x Molten key (id 30029) at X: 3093, Y: 3503
+[02 Jan. 2022, 12:35:50 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30024) at X: 3086, Y: 3493
+[03 Jan. 2022, 9:22:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Iron kiteshield (id 1192) at X: 3091, Y: 3502
+[03 Jan. 2022, 9:43:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30035) at X: 3094, Y: 3503
+[03 Jan. 2022, 9:44:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30035) at X: 3093, Y: 3503
+[04 Jan. 2022, 12:05:34 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Fayrg bones (id 4830) at X: 3128, Y: 3492
+[04 Jan. 2022, 12:06:39 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30042) at X: 3127, Y: 3493
+[04 Jan. 2022, 12:06:42 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Fayrg bones (id 4830) at X: 3128, Y: 3493
+[04 Jan. 2022, 12:07:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30042) at X: 3127, Y: 3493
+[04 Jan. 2022, 12:07:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30042) at X: 3127, Y: 3493
+[04 Jan. 2022, 12:08:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30042) at X: 3125, Y: 3493
+[04 Jan. 2022, 12:08:27 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Jogre bones (id 3125) at X: 3125, Y: 3493
+[04 Jan. 2022, 12:08:27 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Crushed superior dragon bones (id 21975) at X: 3125, Y: 3493
+[04 Jan. 2022, 12:08:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Zogre bone (id 7850) at X: 3125, Y: 3493
+[04 Jan. 2022, 12:09:27 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30035) at X: 3123, Y: 3492
+[04 Jan. 2022, 12:09:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30035) at X: 3123, Y: 3492
+[04 Jan. 2022, 12:09:29 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30035) at X: 3123, Y: 3492
+[04 Jan. 2022, 12:11:02 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30045) at X: 3124, Y: 3492
+[04 Jan. 2022, 12:12:39 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30046) at X: 3124, Y: 3493
+[04 Jan. 2022, 12:23:55 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted bones (id 30042) at X: 3124, Y: 3492
+[04 Jan. 2022, 12:24:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted bones (id 30042) at X: 3124, Y: 3492
+[04 Jan. 2022, 12:24:27 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted bones (id 30042) at X: 3126, Y: 3493
+[04 Jan. 2022, 1:30:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted bones (id 30042) at X: 3125, Y: 3493
+[04 Jan. 2022, 7:11:10 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anathematic stone (id 30035) at X: 3043, Y: 3796
+[04 Jan. 2022, 7:15:08 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anathematic stone (id 30035) at X: 3044, Y: 3799
+[04 Jan. 2022, 7:16:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Neitiznot faceguard (id 24271) at X: 3046, Y: 3797
+[04 Jan. 2022, 7:51:47 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30047) at X: 3091, Y: 3502
+[04 Jan. 2022, 7:51:59 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30047) at X: 3091, Y: 3502
+[04 Jan. 2022, 8:09:36 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30047) at X: 3094, Y: 3496
+[04 Jan. 2022, 8:10:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anathematic stone (id 30035) at X: 3093, Y: 3497
+[05 Jan. 2022, 12:25:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Deranged manifesto (id 30039) at X: 3079, Y: 3511
+[05 Jan. 2022, 12:29:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Deranged manifesto (id 30039) at X: 3079, Y: 3511
+[05 Jan. 2022, 12:29:36 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Anathema ward (id 30034) at X: 3079, Y: 3510
+[05 Jan. 2022, 12:32:16 p.m.] [Ferox GameThread] Player Zoo dropped item 963x Enchanted Key (p) (id 30045) at X: 3079, Y: 3510
+[05 Jan. 2022, 12:38:47 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Deranged manifesto (id 30039) at X: 3094, Y: 3503
+[05 Jan. 2022, 1:03:45 p.m.] [Ferox GameThread] Player Zoo dropped item 117558238x Blood money (id 13307) at X: 3089, Y: 3498
+[05 Jan. 2022, 9:58:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Regen bracelet (id 11133) at X: 3042, Y: 3800
+[05 Jan. 2022, 9:58:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Regen bracelet (id 11133) at X: 3042, Y: 3800
+[05 Jan. 2022, 9:58:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Regen bracelet (id 11133) at X: 3042, Y: 3800
+[05 Jan. 2022, 11:03:15 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted bones (id 30042) at X: 3045, Y: 3792
+[05 Jan. 2022, 11:03:15 p.m.] [Ferox GameThread] Player Zoo dropped item 20x Guthix rest(4) (id 4418) at X: 3045, Y: 3792
+[06 Jan. 2022, 2:02:21 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:02:49 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:03:57 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 14222) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:05:23 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Donator Mystery Box (id 30185) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:05:23 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Granite maul (id 24225) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:05:24 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Dragon boots (id 11840) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:05:24 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Dharok's armour set (id 12877) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:05:25 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Abyssal tentacle (id 12006) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:05:25 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Amulet of fury (id 6585) at X: 3094, Y: 3503
+[06 Jan. 2022, 2:08:57 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 17009) at X: 3092, Y: 3503
+[06 Jan. 2022, 2:08:58 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 17008) at X: 3092, Y: 3503
+[06 Jan. 2022, 2:11:09 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 16755) at X: 3090, Y: 3501
+[06 Jan. 2022, 10:20:13 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted bones (id 30042) at X: 3095, Y: 3507
+[06 Jan. 2022, 8:24:02 p.m.] [Ferox GameThread] Player Zoo dropped item 1840x Enchanted Key (p) (id 30045) at X: 3095, Y: 3508
+[10 Jan. 2022, 1:04:12 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3075, Y: 3501
+[10 Jan. 2022, 1:04:49 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3075, Y: 3501
+[10 Jan. 2022, 1:04:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30051) at X: 3075, Y: 3499
+[10 Jan. 2022, 1:06:16 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30051) at X: 3075, Y: 3501
+[10 Jan. 2022, 1:06:19 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3075, Y: 3500
+[11 Jan. 2022, 1:00:59 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Escape key (id 30054) at X: 3085, Y: 3493
+[12 Jan. 2022, 11:58:22 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Clan Box (id 16462) at X: 3095, Y: 3496
+[12 Jan. 2022, 11:59:44 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[13 Jan. 2022, 12:02:05 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Molten Mystery Box (id 30026) at X: 3094, Y: 3496
+[13 Jan. 2022, 12:06:19 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Starter Box (id 16461) at X: 3094, Y: 3496
+[13 Jan. 2022, 12:08:13 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30056) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:22:18 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of sorcery (id 16167) at X: 3093, Y: 3496
+[13 Jan. 2022, 1:22:20 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of trinity (id 16169) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:22:26 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of trinity (id 16169) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:22:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3094, Y: 3497
+[13 Jan. 2022, 1:23:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of precision (id 16168) at X: 3093, Y: 3496
+[13 Jan. 2022, 1:24:02 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of sorcery (id 16167) at X: 3093, Y: 3496
+[13 Jan. 2022, 1:24:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of trinity (id 16169) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:24:07 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of precision (id 16168) at X: 3093, Y: 3495
+[13 Jan. 2022, 1:24:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3094, Y: 3495
+[13 Jan. 2022, 1:24:37 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of precision (id 16168) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:24:42 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of sorcery (id 16167) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:25:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:25:29 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:25:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of trinity (id 16169) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:25:35 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:26:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of sorcery (id 16167) at X: 3093, Y: 3496
+[13 Jan. 2022, 1:26:13 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3093, Y: 3497
+[13 Jan. 2022, 1:26:14 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of precision (id 16168) at X: 3094, Y: 3496
+[13 Jan. 2022, 1:26:16 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of trinity (id 16169) at X: 3094, Y: 3497
+[13 Jan. 2022, 1:31:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of manhunting (id 15331) at X: 3093, Y: 3496
+[13 Jan. 2022, 1:33:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ring of precision (id 16168) at X: 3093, Y: 3496
+[13 Jan. 2022, 3:51:20 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3095, Y: 3503
+[13 Jan. 2022, 3:51:28 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3096, Y: 3503
+[13 Jan. 2022, 3:51:36 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3096, Y: 3502
+[13 Jan. 2022, 3:51:40 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3095, Y: 3503
+[13 Jan. 2022, 3:51:46 p.m.] [Ferox GameThread] Player Zoo dropped item 10001x OS-GP token (id 30050) at X: 3095, Y: 3505
+[13 Jan. 2022, 9:46:37 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted armadyl chestplate (id 26503) at X: 3093, Y: 3496
+[13 Jan. 2022, 9:46:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted armadyl chainskirt (id 26504) at X: 3093, Y: 3497
+[13 Jan. 2022, 10:53:02 p.m.] [Ferox GameThread] Player Test dropped item 1x Super combat potion(1) (id 12701) at X: 3087, Y: 3524
+[13 Jan. 2022, 10:53:44 p.m.] [Ferox GameThread] Player Test dropped item 1x Super combat potion(1) (id 12701) at X: 3087, Y: 3524
+[13 Jan. 2022, 11:02:23 p.m.] [Ferox GameThread] Player Test dropped item 1x Super restore(4) (id 3024) at X: 3088, Y: 3523
+[13 Jan. 2022, 11:39:01 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Dharok's greataxe (id 4718) at X: 3087, Y: 3493
+[14 Jan. 2022, 6:29:48 p.m.] [Ferox GameThread] Player Zoo dropped item 1x 99 lamp (id 25753) at X: 3092, Y: 3497
+[14 Jan. 2022, 7:19:06 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Wilderness key (id 13302) at X: 3091, Y: 3502
+[15 Jan. 2022, 2:06:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:11 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[15 Jan. 2022, 2:06:13 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3089, Y: 3512
+[16 Jan. 2022, 4:36:33 p.m.] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3086, Y: 3495
+[16 Jan. 2022, 4:36:33 p.m.] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3086, Y: 3495
+[16 Jan. 2022, 4:36:33 p.m.] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3086, Y: 3495
+[16 Jan. 2022, 4:36:34 p.m.] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3086, Y: 3495
+[16 Jan. 2022, 4:36:34 p.m.] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3086, Y: 3495
+[16 Jan. 2022, 4:36:35 p.m.] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3086, Y: 3495
+[18 Jan. 2022, 2:54:32 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:32 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:32 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:32 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:32 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 2:54:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3086, Y: 3524
+[18 Jan. 2022, 3:16:47 p.m.] [Ferox GameThread] Player Origin dropped item 1x Mystic robe top (id 4091) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:47 p.m.] [Ferox GameThread] Player Origin dropped item 1x Mystic robe bottom (id 4093) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:47 p.m.] [Ferox GameThread] Player Origin dropped item 1x Spirit shield (id 12829) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:48 p.m.] [Ferox GameThread] Player Origin dropped item 1x Dragon scimitar (id 4587) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:49 p.m.] [Ferox GameThread] Player Origin dropped item 1x Rune platelegs (id 1079) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:49 p.m.] [Ferox GameThread] Player Origin dropped item 1x Black d'hide body (id 2503) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:49 p.m.] [Ferox GameThread] Player Origin dropped item 1x Helm of neitiznot (id 10828) at X: 3089, Y: 3523
+[18 Jan. 2022, 3:16:49 p.m.] [Ferox GameThread] Player Origin dropped item 1x Dharok's greataxe (id 4718) at X: 3089, Y: 3523
+[19 Jan. 2022, 12:07:21 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30056) at X: 3288, Y: 3994
+[19 Jan. 2022, 12:07:38 a.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 30056) at X: 3288, Y: 3994
+[22 Jan 2022, 5:10:40 PM] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3087, Y: 3496
+[22 Jan 2022, 5:10:41 PM] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3088, Y: 3497
+[22 Jan 2022, 5:10:41 PM] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3088, Y: 3497
+[22 Jan 2022, 5:10:41 PM] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3088, Y: 3497
+[22 Jan 2022, 5:10:41 PM] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3088, Y: 3497
+[22 Jan 2022, 5:10:41 PM] [Ferox GameThread] Player Origin dropped item 1x Shark (id 385) at X: 3088, Y: 3497
+[22 Jan 2022, 6:48:13 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[22 Jan 2022, 6:48:13 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[22 Jan 2022, 6:48:13 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[22 Jan 2022, 6:48:13 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[22 Jan 2022, 6:48:13 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[22 Jan 2022, 6:48:14 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[22 Jan 2022, 6:48:14 PM] [Ferox GameThread] Player Zoo dropped item 1x Shark (id 385) at X: 3079, Y: 3522
+[23 Jan 2022, 12:20:46 AM] [Ferox GameThread] Player Origin dropped item 1302x Water rune (id 555) at X: 3086, Y: 3497
+[24 Jan 2022, 12:27:14 AM] [Ferox GameThread] Player Zoo dropped item 1x Bronze pickaxe (id 1265) at X: 1779, Y: 3468
+[24 Jan 2022, 11:31:12 AM] [Ferox GameThread] Player Zoo dropped item 1x Shadow mace (id 28001) at X: 3085, Y: 3492
+[24 Jan 2022, 12:07:49 PM] [Ferox GameThread] Player Zoo dropped item 1x null (id 26554) at X: 3087, Y: 3507
+[26 Jan. 2022, 9:03:02 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3095, Y: 3497
+[26 Jan. 2022, 9:04:39 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3095, Y: 3497
+[26 Jan. 2022, 9:05:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3095, Y: 3497
+[26 Jan. 2022, 9:06:59 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3095, Y: 3497
+[26 Jan. 2022, 9:08:48 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Epic Pet Mystery Box (id 16458) at X: 3094, Y: 3497
+[26 Jan. 2022, 9:12:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Donator Mystery Box (id 30185) at X: 3094, Y: 3495
+[26 Jan. 2022, 9:12:58 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Donator Mystery Box (id 30185) at X: 3094, Y: 3495
+[26 Jan. 2022, 9:15:57 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:16:08 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:16:37 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:16:42 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:18:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:18:10 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:18:20 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mahogany chest (id 8151) at X: 3093, Y: 3495
+[26 Jan. 2022, 9:19:29 p.m.] [Ferox GameThread] Player Zoo dropped item 30000x Blood money (id 13307) at X: 3093, Y: 3493
+[26 Jan. 2022, 9:21:50 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:21:57 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Small blood money casket (id 7956) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:22:02 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money chest (id 14524) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:22:16 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:22:19 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money chest (id 14524) at X: 3096, Y: 3492
+[26 Jan. 2022, 9:22:24 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Slayer key (id 3269) at X: 3097, Y: 3492
+[26 Jan. 2022, 9:22:26 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Small blood money casket (id 7956) at X: 3096, Y: 3491
+[26 Jan. 2022, 9:22:38 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:23:18 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money chest (id 14524) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:23:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money chest (id 14524) at X: 3095, Y: 3492
+[26 Jan. 2022, 9:23:30 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Small blood money casket (id 7956) at X: 3092, Y: 3491
+[26 Jan. 2022, 9:23:39 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3492
+[26 Jan. 2022, 9:26:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3093, Y: 3492
+[26 Jan. 2022, 9:26:55 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money chest (id 14524) at X: 3094, Y: 3492
+[26 Jan. 2022, 9:29:28 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Legendary Mystery Box (id 16454) at X: 3093, Y: 3492
+[26 Jan. 2022, 9:29:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3092, Y: 3492
+[26 Jan. 2022, 9:30:07 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3093, Y: 3491
+[26 Jan. 2022, 9:32:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Minecart ticket (id 5020) at X: 3102, Y: 3505
+[26 Jan. 2022, 9:33:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3102, Y: 3505
+[26 Jan. 2022, 9:33:23 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3099, Y: 3503
+[26 Jan. 2022, 9:33:25 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery ticket (id 30222) at X: 3099, Y: 3502
+[26 Jan. 2022, 9:36:16 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Vote ticket (id 619) at X: 3090, Y: 3492
+[26 Jan. 2022, 10:12:50 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Infinity winter boots (id 30013) at X: 3094, Y: 3499
+[26 Jan. 2022, 10:12:52 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Armadyl frostsword (id 30003) at X: 3094, Y: 3499
+[26 Jan. 2022, 10:36:09 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Legendary Mystery Box (id 16454) at X: 3094, Y: 3497
+[26 Jan. 2022, 10:45:54 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3094, Y: 3495
+[26 Jan. 2022, 10:47:42 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3094, Y: 3491
+[26 Jan. 2022, 10:47:44 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3096, Y: 3491
+[26 Jan. 2022, 10:47:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3096, Y: 3491
+[26 Jan. 2022, 10:48:20 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3094, Y: 3492
+[26 Jan. 2022, 10:48:21 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3095, Y: 3492
+[26 Jan. 2022, 10:48:33 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3094, Y: 3492
+[26 Jan. 2022, 10:48:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3094, Y: 3492
+[26 Jan. 2022, 11:25:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ancient warrior clamp (id 24985) at X: 3096, Y: 3503
+[26 Jan. 2022, 11:26:53 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Ancient warrior clamp (id 24985) at X: 3096, Y: 3503
+[26 Jan. 2022, 11:40:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier III (id 14901) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:40:36 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier III (id 14901) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:41:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier III (id 14901) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:41:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier III (id 14901) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:42:49 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier II (id 14900) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:47:05 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (100-250k) (id 30223) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:47:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (100-250k) (id 30223) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:47:38 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (100-250k) (id 30223) at X: 3156, Y: 3980
+[26 Jan. 2022, 11:47:43 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (5-50k) (id 24999) at X: 3157, Y: 3979
+[26 Jan. 2022, 11:49:04 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (100-250k) (id 30223) at X: 3155, Y: 3982
+[26 Jan. 2022, 11:49:07 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (5-50k) (id 24999) at X: 3158, Y: 3981
+[27 Jan. 2022, 11:47:18 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3095, Y: 3496
+[27 Jan. 2022, 11:47:22 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Grand Mystery Box (id 16455) at X: 3093, Y: 3496
+[27 Jan. 2022, 11:47:41 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Larran's key tier III (id 14901) at X: 3093, Y: 3496
+[27 Jan. 2022, 11:48:06 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (5-50k) (id 24999) at X: 3093, Y: 3496
+[27 Jan. 2022, 11:48:08 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Blood money casket (100-250k) (id 30223) at X: 3094, Y: 3496
+[27 Jan. 2022, 11:58:34 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Enchanted armadyl helmet (id 26502) at X: 3092, Y: 3497
+[27 Jan. 2022, 11:58:37 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Mystery chest (id 14525) at X: 3093, Y: 3497
+[27 Jan. 2022, 1:36:35 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:36:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:37:34 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:37:40 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:38:29 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:38:41 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:38:43 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Amulet of torture (id 19553) at X: 3100, Y: 3500
+[27 Jan. 2022, 1:38:46 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3499
+[27 Jan. 2022, 1:39:08 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3499
+[27 Jan. 2022, 1:39:17 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3499
+[27 Jan. 2022, 1:39:35 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3499
+[27 Jan. 2022, 1:39:45 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Salazar slytherins locket (id 27644) at X: 3100, Y: 3499
+[27 Jan. 2022, 6:43:03 p.m.] [Ferox GameThread] Player Zoo dropped item 1x null (id 28461) at X: 3093, Y: 3503
+[27 Jan. 2022, 11:59:12 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3096, Y: 3503
+[27 Jan. 2022, 11:59:31 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3096, Y: 3503
+[27 Jan. 2022, 11:59:51 p.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3096, Y: 3503
+[28 Jan. 2022, 12:00:45 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3097, Y: 3504
+[28 Jan. 2022, 12:01:05 a.m.] [Ferox GameThread] Player Zoo dropped item 1x Key of Drops (id 2944) at X: 3097, Y: 3504

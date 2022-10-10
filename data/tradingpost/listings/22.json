@@ -1,0 +1,23 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "22",
+      "lastBuyerName": "Lyria",
+      "saleItem": {
+        "id": 619,
+        "amount": 4
+      },
+      "price": 50000,
+      "timeListed": 1635418287226,
+      "amountSold": 4,
+      "profit": 200000,
+      "transactionTime": 1635687263268,
+      "buyersInfo": [
+        "Danny Jones",
+        "Tweetmykills",
+        "Tomer",
+        "Lyria"
+      ]
+    }
+  ]
+}

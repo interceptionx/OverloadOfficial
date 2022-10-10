@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "eddie bravo",
+      "lastBuyerName": "Tree Hugger",
+      "saleItem": {
+        "id": 4714,
+        "amount": 1
+      },
+      "price": 10000,
+      "timeListed": 1635104847019,
+      "amountSold": 1,
+      "profit": 10000,
+      "transactionTime": 1635481180515,
+      "buyersInfo": [
+        "Tree Hugger"
+      ]
+    },
+    {
+      "sellerName": "eddie bravo",
+      "saleItem": {
+        "id": 6921,
+        "amount": 5
+      },
+      "price": 10000,
+      "timeListed": 1635104949621,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

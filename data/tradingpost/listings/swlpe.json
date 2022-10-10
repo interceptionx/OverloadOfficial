@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "swlpe",
+      "lastBuyerName": "THOUXAN",
+      "saleItem": {
+        "id": 21890,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1635475646555,
+      "amountSold": 1,
+      "profit": 1500000,
+      "transactionTime": 1635919099972,
+      "buyersInfo": [
+        "THOUXAN"
+      ]
+    }
+  ]
+}

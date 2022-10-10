@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "iron bell",
+      "saleItem": {
+        "id": 27004,
+        "amount": 2
+      },
+      "price": 1500000,
+      "timeListed": 1634933175129,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "iron bell",
+      "saleItem": {
+        "id": 27003,
+        "amount": 1
+      },
+      "price": 3400000,
+      "timeListed": 1634933286729,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "iron bell",
+      "saleItem": {
+        "id": 24491,
+        "amount": 2
+      },
+      "price": 2100000,
+      "timeListed": 1635452142649,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "iron bell",
+      "saleItem": {
+        "id": 20693,
+        "amount": 1
+      },
+      "price": 6400000,
+      "timeListed": 1635453868288,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

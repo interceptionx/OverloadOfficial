@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "care plane",
+      "saleItem": {
+        "id": 30228,
+        "amount": 2
+      },
+      "price": 1950000,
+      "timeListed": 1634809455877,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "care plane",
+      "saleItem": {
+        "id": 26502,
+        "amount": 1
+      },
+      "price": 6500000,
+      "timeListed": 1634809464284,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "care plane",
+      "saleItem": {
+        "id": 27004,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1635410985541,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

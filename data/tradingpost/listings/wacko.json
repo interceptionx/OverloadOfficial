@@ -1,0 +1,101 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "wacko",
+      "saleItem": {
+        "id": 12877,
+        "amount": 1
+      },
+      "price": 30000,
+      "timeListed": 1636326600825,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wacko",
+      "saleItem": {
+        "id": 12931,
+        "amount": 2
+      },
+      "price": 160000,
+      "timeListed": 1636247342048,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wacko",
+      "saleItem": {
+        "id": 22625,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636247400264,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wacko",
+      "saleItem": {
+        "id": 12900,
+        "amount": 1
+      },
+      "price": 325000,
+      "timeListed": 1636247395467,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wacko",
+      "lastBuyerName": "Bigbog",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 580000,
+      "timeListed": 1636247373253,
+      "amountSold": 1,
+      "profit": 580000,
+      "transactionTime": 1636761347689,
+      "buyersInfo": [
+        "Bigbog"
+      ]
+    },
+    {
+      "sellerName": "wacko",
+      "saleItem": {
+        "id": 12425,
+        "amount": 1
+      },
+      "price": 950000,
+      "timeListed": 1636247385856,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wacko",
+      "lastBuyerName": "666",
+      "saleItem": {
+        "id": 12904,
+        "amount": 1
+      },
+      "price": 375000,
+      "timeListed": 1636337822960,
+      "amountSold": 1,
+      "profit": 375000,
+      "transactionTime": 1636694460106,
+      "buyersInfo": [
+        "666"
+      ]
+    }
+  ]
+}

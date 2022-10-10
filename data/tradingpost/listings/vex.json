@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "vex",
+      "saleItem": {
+        "id": 11283,
+        "amount": 6
+      },
+      "price": 50000,
+      "timeListed": 1635913082999,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

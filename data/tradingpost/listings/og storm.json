@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "og storm",
+      "lastBuyerName": "Reign",
+      "saleItem": {
+        "id": 24144,
+        "amount": 1
+      },
+      "price": 90000,
+      "timeListed": 1635058602236,
+      "amountSold": 1,
+      "profit": 90000,
+      "transactionTime": 1635595227109,
+      "buyersInfo": [
+        "Reign"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "npcs": [ 1673 ],
+  "petItem": 16020,
+  "petRarity": 2000,
+  "guaranteed": [
+  ],
+  "tables": [
+    {
+      "name": "Drops",
+      "points": 1,
+      "items": [
+        { "id": 4716, "min": 1, "max": 1, "points": 200 },
+        { "id": 4718, "min": 1, "max": 1, "points": 200 },
+        { "id": 4720, "min": 1, "max": 1, "points": 200 },
+        { "id": 4722, "min": 1, "max": 1, "points": 200 },
+        { "id": 12877, "min": 1, "max": 1, "points": 20 },
+        { "id": 12853, "min": 1, "max": 1, "points": 10 }
+      ]
+    },
+    {
+      "name": "Empty",
+      "points": 10,
+      "items": [
+      ]
+    }
+  ]
+}

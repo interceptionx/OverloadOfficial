@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "turm v2",
+      "lastBuyerName": "Off",
+      "saleItem": {
+        "id": 11830,
+        "amount": 2
+      },
+      "price": 50000,
+      "timeListed": 1636336332517,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1636394356032,
+      "buyersInfo": [
+        "Off"
+      ]
+    }
+  ]
+}

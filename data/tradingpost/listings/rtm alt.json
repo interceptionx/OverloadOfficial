@@ -1,0 +1,88 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "rtm alt",
+      "lastBuyerName": "Tokyo",
+      "saleItem": {
+        "id": 12926,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636057114186,
+      "amountSold": 1,
+      "profit": 500000,
+      "transactionTime": 1636548618555,
+      "buyersInfo": [
+        "Tokyo"
+      ]
+    },
+    {
+      "sellerName": "rtm alt",
+      "saleItem": {
+        "id": 22641,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636057150181,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "rtm alt",
+      "lastBuyerName": "Bigbog",
+      "saleItem": {
+        "id": 22296,
+        "amount": 1
+      },
+      "price": 50000,
+      "timeListed": 1636057154388,
+      "amountSold": 1,
+      "profit": 50000,
+      "transactionTime": 1636581019535,
+      "buyersInfo": [
+        "Bigbog"
+      ]
+    },
+    {
+      "sellerName": "rtm alt",
+      "saleItem": {
+        "id": 13239,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1636063452171,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "rtm alt",
+      "saleItem": {
+        "id": 19553,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1636063458769,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "rtm alt",
+      "saleItem": {
+        "id": 24986,
+        "amount": 1
+      },
+      "price": 650000,
+      "timeListed": 1636073923084,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

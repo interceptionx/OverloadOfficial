@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "n",
+      "lastBuyerName": "Momma",
+      "saleItem": {
+        "id": 30235,
+        "amount": 5676
+      },
+      "price": 90,
+      "timeListed": 1635711246581,
+      "amountSold": 5676,
+      "profit": 510840,
+      "transactionTime": 1635712952436,
+      "buyersInfo": [
+        "Momma"
+      ]
+    }
+  ]
+}

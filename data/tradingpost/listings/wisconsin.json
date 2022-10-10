@@ -1,0 +1,47 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "wisconsin",
+      "saleItem": {
+        "id": 13197,
+        "amount": 1
+      },
+      "price": 198999,
+      "timeListed": 1635187005680,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wisconsin",
+      "lastBuyerName": "Sir Tyler",
+      "saleItem": {
+        "id": 30235,
+        "amount": 137466
+      },
+      "price": 120,
+      "timeListed": 1636219934445,
+      "amountSold": 123861,
+      "profit": 0,
+      "transactionTime": 1636837657911,
+      "buyersInfo": [
+        "Kbd",
+        "Kbd",
+        "Kbd",
+        "Kbd",
+        "Kbd",
+        "Kbd",
+        "Kbd",
+        "Kbd",
+        "Carver319",
+        "Carver319",
+        "Carver319",
+        "Aubreigh",
+        "Carver319",
+        "Carver319",
+        "Sir Tyler"
+      ]
+    }
+  ]
+}

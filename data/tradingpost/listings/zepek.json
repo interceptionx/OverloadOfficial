@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "zepek",
+      "saleItem": {
+        "id": 12877,
+        "amount": 1
+      },
+      "price": 440000,
+      "timeListed": 1636059628270,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "zepek",
+      "saleItem": {
+        "id": 19478,
+        "amount": 1
+      },
+      "price": 24000,
+      "timeListed": 1636059693671,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

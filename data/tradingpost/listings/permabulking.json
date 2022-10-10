@@ -1,0 +1,62 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "permabulking",
+      "lastBuyerName": "Eco Jr",
+      "saleItem": {
+        "id": 12791,
+        "amount": 18
+      },
+      "price": 4000,
+      "timeListed": 1635316620109,
+      "amountSold": 17,
+      "profit": 20000,
+      "transactionTime": 1635728839111,
+      "buyersInfo": [
+        "B0omie",
+        "B0omie",
+        "B0omie",
+        "Wisconsin",
+        "Lets Go",
+        "1 2 Be Rich",
+        "Eco Jr",
+        "Eco Jr",
+        "Eco Jr"
+      ]
+    },
+    {
+      "sellerName": "permabulking",
+      "lastBuyerName": "1659",
+      "saleItem": {
+        "id": 12877,
+        "amount": 2
+      },
+      "price": 40000,
+      "timeListed": 1635322929300,
+      "amountSold": 2,
+      "profit": 40000,
+      "transactionTime": 1635778222389,
+      "buyersInfo": [
+        "1 2 Be Rich",
+        "1659"
+      ]
+    },
+    {
+      "sellerName": "permabulking",
+      "lastBuyerName": "Danny Jones",
+      "saleItem": {
+        "id": 30235,
+        "amount": 4547
+      },
+      "price": 85,
+      "timeListed": 1635398779978,
+      "amountSold": 4547,
+      "profit": 386495,
+      "transactionTime": 1635467052486,
+      "buyersInfo": [
+        "V2",
+        "Danny Jones"
+      ]
+    }
+  ]
+}

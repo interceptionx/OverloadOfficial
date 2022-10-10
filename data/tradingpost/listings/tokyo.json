@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "tokyo",
+      "saleItem": {
+        "id": 12899,
+        "amount": 1
+      },
+      "price": 140000,
+      "timeListed": 1636594369332,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

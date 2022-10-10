@@ -1,0 +1,37 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "guan yu",
+      "lastBuyerName": "Sillycat99",
+      "saleItem": {
+        "id": 4067,
+        "amount": 500
+      },
+      "price": 1000,
+      "timeListed": 1635374816455,
+      "amountSold": 500,
+      "profit": 250000,
+      "transactionTime": 1635818544786,
+      "buyersInfo": [
+        "Swapcity",
+        "Sillycat99"
+      ]
+    },
+    {
+      "sellerName": "guan yu",
+      "lastBuyerName": "Hollywood Ud",
+      "saleItem": {
+        "id": 30342,
+        "amount": 1
+      },
+      "price": 4000000,
+      "timeListed": 1635484430812,
+      "amountSold": 1,
+      "profit": 4000000,
+      "transactionTime": 1636644638822,
+      "buyersInfo": [
+        "Hollywood Ud"
+      ]
+    }
+  ]
+}

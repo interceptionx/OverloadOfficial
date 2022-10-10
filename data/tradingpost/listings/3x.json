@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "3x",
+      "saleItem": {
+        "id": 12437,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1636245110590,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "3x",
+      "saleItem": {
+        "id": 21018,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1636322236889,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

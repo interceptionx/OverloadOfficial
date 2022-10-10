@@ -1,0 +1,46 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "v2",
+      "saleItem": {
+        "id": 23389,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1635476341374,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "v2",
+      "saleItem": {
+        "id": 12395,
+        "amount": 1
+      },
+      "price": 1200000,
+      "timeListed": 1635489538155,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "v2",
+      "lastBuyerName": "Tokyo",
+      "saleItem": {
+        "id": 22545,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636516708671,
+      "amountSold": 1,
+      "profit": 250000,
+      "transactionTime": 1636686448056,
+      "buyersInfo": [
+        "Tokyo"
+      ]
+    }
+  ]
+}

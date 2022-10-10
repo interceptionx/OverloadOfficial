@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "psychic",
+      "lastBuyerName": "Entrance",
+      "saleItem": {
+        "id": 13237,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1634548232666,
+      "amountSold": 1,
+      "profit": 350000,
+      "transactionTime": 1635862382694,
+      "buyersInfo": [
+        "Entrance"
+      ]
+    },
+    {
+      "sellerName": "psychic",
+      "saleItem": {
+        "id": 6889,
+        "amount": 1
+      },
+      "price": 180000,
+      "timeListed": 1634551818297,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

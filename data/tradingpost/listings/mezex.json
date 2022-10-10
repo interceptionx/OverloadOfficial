@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "mezex",
+      "saleItem": {
+        "id": 24225,
+        "amount": 1
+      },
+      "price": 7500,
+      "timeListed": 1636851742130,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

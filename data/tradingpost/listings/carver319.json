@@ -1,0 +1,69 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "carver319",
+      "saleItem": {
+        "id": 12900,
+        "amount": 1
+      },
+      "price": 200000,
+      "timeListed": 1636686797867,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "carver319",
+      "saleItem": {
+        "id": 21000,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636686809877,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "carver319",
+      "saleItem": {
+        "id": 30234,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636686593868,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "carver319",
+      "saleItem": {
+        "id": 1044,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636686763665,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "carver319",
+      "saleItem": {
+        "id": 22545,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636768477691,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

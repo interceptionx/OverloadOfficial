@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "zennu",
+      "saleItem": {
+        "id": 12899,
+        "amount": 1
+      },
+      "price": 150000,
+      "timeListed": 1636197304167,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

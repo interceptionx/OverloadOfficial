@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "jimsons",
+      "lastBuyerName": "Swapcity",
+      "saleItem": {
+        "id": 22002,
+        "amount": 1
+      },
+      "price": 150000,
+      "timeListed": 1635795852611,
+      "amountSold": 1,
+      "profit": 150000,
+      "transactionTime": 1635890657331,
+      "buyersInfo": [
+        "Swapcity"
+      ]
+    }
+  ]
+}

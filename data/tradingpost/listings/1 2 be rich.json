@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "1 2 be rich",
+      "lastBuyerName": "Outlast",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 530000,
+      "timeListed": 1636329310503,
+      "amountSold": 1,
+      "profit": 530000,
+      "transactionTime": 1636742293521,
+      "buyersInfo": [
+        "Outlast"
+      ]
+    }
+  ]
+}

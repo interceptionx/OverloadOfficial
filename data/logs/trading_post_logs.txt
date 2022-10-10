@@ -1,0 +1,27 @@
+[05 Nov 2021, 1:04:27 pm] [Ferox GameThread] Patrick bought: ItemName=Armadyl chestplate ItemAmount=1 Price=65m
+[22 Nov. 2021, 2:08:08 p.m.] [Ferox GameThread] Zoo listed: ItemName=Armadyl godsword (or) ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:10 p.m.] [Ferox GameThread] Zoo listed: ItemName=Bandos godsword (or) ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:13 p.m.] [Ferox GameThread] Zoo listed: ItemName=$50 bond ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:08:15 p.m.] [Ferox GameThread] Zoo listed: ItemName=$100 bond ItemAmount=1 Price=100m
+[22 Nov. 2021, 2:08:17 p.m.] [Ferox GameThread] Zoo listed: ItemName=$40 bond ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:08:19 p.m.] [Ferox GameThread] Zoo listed: ItemName=$20 bond ItemAmount=1 Price=5m
+[22 Nov. 2021, 2:08:22 p.m.] [Ferox GameThread] Zoo listed: ItemName=Saradomin godsword (or) ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:08:23 p.m.] [Ferox GameThread] Zoo listed: ItemName=5$ bond ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:29 p.m.] [Ferox GameThread] Zoo listed: ItemName=Torag's helm ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:08:31 p.m.] [Ferox GameThread] Zoo listed: ItemName=Dragon 2h sword ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:11:44 p.m.] [Ferox GameThread] Zoo listed: ItemName=Red partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:46 p.m.] [Ferox GameThread] Zoo listed: ItemName=Purple partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:48 p.m.] [Ferox GameThread] Zoo listed: ItemName=Yellow partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:50 p.m.] [Ferox GameThread] Zoo listed: ItemName=Blue partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:11:53 p.m.] [Ferox GameThread] Zoo listed: ItemName=Green partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:14:26 p.m.] [Ferox GameThread] Adlad listed: ItemName=Red partyhat ItemAmount=1 Price=10m
+[22 Nov. 2021, 2:14:28 p.m.] [Ferox GameThread] Adlad listed: ItemName=Yellow partyhat ItemAmount=1 Price=5m
+[22 Nov. 2021, 2:14:29 p.m.] [Ferox GameThread] Adlad listed: ItemName=Blue partyhat ItemAmount=1 Price=5m
+[22 Nov. 2021, 2:14:31 p.m.] [Ferox GameThread] Adlad listed: ItemName=Green partyhat ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:33 p.m.] [Ferox GameThread] Adlad listed: ItemName=Bandos godsword (or) ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:35 p.m.] [Ferox GameThread] Adlad listed: ItemName=White partyhat ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:37 p.m.] [Ferox GameThread] Adlad listed: ItemName=Purple partyhat ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:14:39 p.m.] [Ferox GameThread] Adlad listed: ItemName=Saradomin godsword (or) ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:15:16 p.m.] [Ferox GameThread] Adlad listed: ItemName=Armadyl godsword ItemAmount=1 Price=1m
+[22 Nov. 2021, 2:15:17 p.m.] [Ferox GameThread] Adlad listed: ItemName=Bandos godsword ItemAmount=1 Price=2m
+[22 Nov. 2021, 2:15:19 p.m.] [Ferox GameThread] Adlad listed: ItemName=Armadyl godsword (or) ItemAmount=1 Price=5m

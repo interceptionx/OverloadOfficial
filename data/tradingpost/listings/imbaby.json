@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "imbaby",
+      "saleItem": {
+        "id": 11808,
+        "amount": 1
+      },
+      "price": 15000,
+      "timeListed": 1635800563447,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

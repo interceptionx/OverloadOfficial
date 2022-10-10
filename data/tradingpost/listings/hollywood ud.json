@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "hollywood ud",
+      "saleItem": {
+        "id": 22613,
+        "amount": 1
+      },
+      "price": 900000,
+      "timeListed": 1636167608082,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

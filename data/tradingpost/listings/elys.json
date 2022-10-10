@@ -1,0 +1,68 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "elys",
+      "lastBuyerName": "NOT FREE",
+      "saleItem": {
+        "id": 13652,
+        "amount": 1
+      },
+      "price": 85000,
+      "timeListed": 1635540428682,
+      "amountSold": 1,
+      "profit": 85000,
+      "transactionTime": 1635679342419,
+      "buyersInfo": [
+        "NOT FREE"
+      ]
+    },
+    {
+      "sellerName": "elys",
+      "lastBuyerName": "Ill Rush You",
+      "saleItem": {
+        "id": 19710,
+        "amount": 1
+      },
+      "price": 220000,
+      "timeListed": 1635528962336,
+      "amountSold": 1,
+      "profit": 220000,
+      "transactionTime": 1635865125974,
+      "buyersInfo": [
+        "Ill Rush You"
+      ]
+    },
+    {
+      "sellerName": "elys",
+      "lastBuyerName": "Chaotic Jr",
+      "saleItem": {
+        "id": 23818,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1635529006744,
+      "amountSold": 1,
+      "profit": 250000,
+      "transactionTime": 1635679047209,
+      "buyersInfo": [
+        "Chaotic Jr"
+      ]
+    },
+    {
+      "sellerName": "elys",
+      "lastBuyerName": "Entrance",
+      "saleItem": {
+        "id": 22323,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1635539215453,
+      "amountSold": 1,
+      "profit": 1000000,
+      "transactionTime": 1635732073806,
+      "buyersInfo": [
+        "Entrance"
+      ]
+    }
+  ]
+}

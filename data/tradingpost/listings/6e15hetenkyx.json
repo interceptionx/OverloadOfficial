@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "6e15hetenkyx",
+      "saleItem": {
+        "id": 30185,
+        "amount": 5
+      },
+      "price": 300000,
+      "timeListed": 1636654599711,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "6e15hetenkyx",
+      "saleItem": {
+        "id": 619,
+        "amount": 4
+      },
+      "price": 65000,
+      "timeListed": 1636795988507,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

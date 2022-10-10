@@ -1,0 +1,9 @@
+[03 Dec. 2021, 9:08:45 a.m.] [Ferox GameThread] Player Zoo gave 1 Dragon platebody (id 21892), 1 Inquisitor's great helm (id 24419),  in a trade to Cashcart
+[03 Dec. 2021, 9:08:45 a.m.] [Ferox GameThread] Player Cashcart gave  in a trade to Zoo
+[03 Dec. 2021, 9:08:45 a.m.] [Ferox GameThread] Player Zoo (lvl 126) and Cashcart (lvl 126) trade value difference of 40,000 blood money.
+[18 Dec. 2021, 6:31:14 p.m.] [Ferox GameThread] Player Zoo aborted the trade returning items: []
+[18 Dec. 2021, 6:31:14 p.m.] [Ferox GameThread] Player Testerman aborted the trade returning items: []
+[21 Dec. 2021, 12:25:51 p.m.] [Ferox GameThread] Player Zoo aborted the trade returning items: []
+[21 Dec. 2021, 12:25:51 p.m.] [Ferox GameThread] Player Test aborted the trade returning items: []
+[30 Dec. 2021, 5:20:04 p.m.] [Ferox GameThread] Player Zoo aborted the trade returning items: [Item{id=30017, name=Snowbird, amount=1, noted=false}]
+[30 Dec. 2021, 5:20:04 p.m.] [Ferox GameThread] Player Test aborted the trade returning items: []

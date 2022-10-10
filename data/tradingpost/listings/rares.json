@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "rares",
+      "saleItem": {
+        "id": 6585,
+        "amount": 2
+      },
+      "price": 95000,
+      "timeListed": 1635693787857,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

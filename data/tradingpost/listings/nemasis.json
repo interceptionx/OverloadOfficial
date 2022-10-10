@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "nemasis",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 1400000,
+      "timeListed": 1635440980512,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

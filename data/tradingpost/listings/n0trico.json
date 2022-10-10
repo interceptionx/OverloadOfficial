@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "n0trico",
+      "saleItem": {
+        "id": 20128,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1635265058333,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "n0trico",
+      "saleItem": {
+        "id": 23995,
+        "amount": 1
+      },
+      "price": 600000,
+      "timeListed": 1635588444519,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "n0trico",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 900000,
+      "timeListed": 1635788626108,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "n0trico",
+      "saleItem": {
+        "id": 24985,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1636141030282,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

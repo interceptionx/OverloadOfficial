@@ -1,0 +1,108 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 1042,
+        "amount": 1
+      },
+      "price": 1300000,
+      "timeListed": 1636973893759,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 1046,
+        "amount": 2
+      },
+      "price": 850000,
+      "timeListed": 1636973900361,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 12102,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1636973915359,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 30225,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636973929165,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 28639,
+        "amount": 1
+      },
+      "price": 12000000,
+      "timeListed": 1636976802653,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 28663,
+        "amount": 1
+      },
+      "price": 10000000,
+      "timeListed": 1636978932708,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 13235,
+        "amount": 1
+      },
+      "price": 200000,
+      "timeListed": 1636979032922,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "redsaber222",
+      "saleItem": {
+        "id": 27005,
+        "amount": 1
+      },
+      "price": 8000000,
+      "timeListed": 1636979064723,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

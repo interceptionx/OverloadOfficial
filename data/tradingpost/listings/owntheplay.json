@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "owntheplay",
+      "saleItem": {
+        "id": 23444,
+        "amount": 1
+      },
+      "price": 1699000,
+      "timeListed": 1635865124770,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

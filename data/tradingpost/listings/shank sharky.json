@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "shank sharky",
+      "saleItem": {
+        "id": 11804,
+        "amount": 5
+      },
+      "price": 35000,
+      "timeListed": 1634836892922,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "shank sharky",
+      "saleItem": {
+        "id": 11808,
+        "amount": 4
+      },
+      "price": 35000,
+      "timeListed": 1634836909117,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

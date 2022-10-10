@@ -1,0 +1,21 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "wildy",
+      "lastBuyerName": "Blizrdstorm",
+      "saleItem": {
+        "id": 619,
+        "amount": 6
+      },
+      "price": 50000,
+      "timeListed": 1636313451432,
+      "amountSold": 6,
+      "profit": 300000,
+      "transactionTime": 1636611934246,
+      "buyersInfo": [
+        "Billybob",
+        "Blizrdstorm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "whipping",
+      "saleItem": {
+        "id": 20035,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1635968469344,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "whipping",
+      "saleItem": {
+        "id": 20368,
+        "amount": 2
+      },
+      "price": 800000,
+      "timeListed": 1636295298488,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "whipping",
+      "lastBuyerName": "Primatol",
+      "saleItem": {
+        "id": 30228,
+        "amount": 2
+      },
+      "price": 900000,
+      "timeListed": 1636295262498,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1636333496831,
+      "buyersInfo": [
+        "Primatol"
+      ]
+    },
+    {
+      "sellerName": "whipping",
+      "saleItem": {
+        "id": 13188,
+        "amount": 2
+      },
+      "price": 950000,
+      "timeListed": 1636295060273,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "whipping",
+      "saleItem": {
+        "id": 12393,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1635968461539,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "nonyabizz",
+      "saleItem": {
+        "id": 24417,
+        "amount": 1
+      },
+      "price": 450000,
+      "timeListed": 1636515360444,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "nonyabizz",
+      "lastBuyerName": "Anonymous",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 480000,
+      "timeListed": 1636515398232,
+      "amountSold": 1,
+      "profit": 480000,
+      "transactionTime": 1636544000827,
+      "buyersInfo": [
+        "Anonymous"
+      ]
+    },
+    {
+      "sellerName": "nonyabizz",
+      "saleItem": {
+        "id": 13188,
+        "amount": 1
+      },
+      "price": 775000,
+      "timeListed": 1636515329241,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "nonyabizz",
+      "saleItem": {
+        "id": 30175,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1636515305831,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "nonyabizz",
+      "saleItem": {
+        "id": 30077,
+        "amount": 1
+      },
+      "price": 4500000,
+      "timeListed": 1636515316639,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

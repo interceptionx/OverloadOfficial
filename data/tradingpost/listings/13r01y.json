@@ -1,0 +1,82 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "13r01y",
+      "saleItem": {
+        "id": 22249,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1636924979713,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "13r01y",
+      "saleItem": {
+        "id": 13235,
+        "amount": 3
+      },
+      "price": 200000,
+      "timeListed": 1636925075718,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "13r01y",
+      "saleItem": {
+        "id": 12926,
+        "amount": 2
+      },
+      "price": 700000,
+      "timeListed": 1636925100911,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "13r01y",
+      "saleItem": {
+        "id": 22653,
+        "amount": 2
+      },
+      "price": 300000,
+      "timeListed": 1636983198845,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "13r01y",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636983207845,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "13r01y",
+      "saleItem": {
+        "id": 22641,
+        "amount": 2
+      },
+      "price": 300000,
+      "timeListed": 1636983236055,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

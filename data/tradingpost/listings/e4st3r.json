@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "e4st3r",
+      "lastBuyerName": "Whipping",
+      "saleItem": {
+        "id": 619,
+        "amount": 4
+      },
+      "price": 40000,
+      "timeListed": 1636683713176,
+      "amountSold": 4,
+      "profit": 160000,
+      "transactionTime": 1636738472603,
+      "buyersInfo": [
+        "Whipping"
+      ]
+    }
+  ]
+}

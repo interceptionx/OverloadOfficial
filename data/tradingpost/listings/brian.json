@@ -1,0 +1,75 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "brian",
+      "lastBuyerName": "Danny Jones",
+      "saleItem": {
+        "id": 22545,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1635027546584,
+      "amountSold": 1,
+      "profit": 300000,
+      "transactionTime": 1635825605796,
+      "buyersInfo": [
+        "Danny Jones"
+      ]
+    },
+    {
+      "sellerName": "brian",
+      "lastBuyerName": "Vrex",
+      "saleItem": {
+        "id": 12899,
+        "amount": 2
+      },
+      "price": 250000,
+      "timeListed": 1635027588585,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1635086459866,
+      "buyersInfo": [
+        "Vrex"
+      ]
+    },
+    {
+      "sellerName": "brian",
+      "saleItem": {
+        "id": 24144,
+        "amount": 1
+      },
+      "price": 100000,
+      "timeListed": 1635027702577,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "brian",
+      "saleItem": {
+        "id": 21018,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1635064707883,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "brian",
+      "saleItem": {
+        "id": 15331,
+        "amount": 1
+      },
+      "price": 4500000,
+      "timeListed": 1635064719272,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

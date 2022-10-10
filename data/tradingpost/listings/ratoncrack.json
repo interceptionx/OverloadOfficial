@@ -1,0 +1,46 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ratoncrack",
+      "saleItem": {
+        "id": 30230,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1634996872840,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ratoncrack",
+      "saleItem": {
+        "id": 21295,
+        "amount": 2
+      },
+      "price": 2250000,
+      "timeListed": 1635628531709,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ratoncrack",
+      "lastBuyerName": "Venereal",
+      "saleItem": {
+        "id": 22322,
+        "amount": 1
+      },
+      "price": 3500000,
+      "timeListed": 1635725442411,
+      "amountSold": 1,
+      "profit": 3500000,
+      "transactionTime": 1636590130811,
+      "buyersInfo": [
+        "Venereal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "northern",
+      "saleItem": {
+        "id": 21003,
+        "amount": 1
+      },
+      "price": 1299999,
+      "timeListed": 1636068422119,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "northern",
+      "saleItem": {
+        "id": 22975,
+        "amount": 1
+      },
+      "price": 119999,
+      "timeListed": 1636068613539,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

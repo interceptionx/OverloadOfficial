@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ninja turtle",
+      "lastBuyerName": "Northern",
+      "saleItem": {
+        "id": 30186,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1635136171479,
+      "amountSold": 1,
+      "profit": 400000,
+      "transactionTime": 1635559669464,
+      "buyersInfo": [
+        "Northern"
+      ]
+    },
+    {
+      "sellerName": "ninja turtle",
+      "saleItem": {
+        "id": 21295,
+        "amount": 1
+      },
+      "price": 2500000,
+      "timeListed": 1635486235059,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "josh",
+      "saleItem": {
+        "id": 11828,
+        "amount": 1
+      },
+      "price": 80000,
+      "timeListed": 1636168844719,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "josh",
+      "lastBuyerName": "Venereal",
+      "saleItem": {
+        "id": 13263,
+        "amount": 1
+      },
+      "price": 30000,
+      "timeListed": 1636168850124,
+      "amountSold": 1,
+      "profit": 30000,
+      "transactionTime": 1636679078051,
+      "buyersInfo": [
+        "Venereal"
+      ]
+    },
+    {
+      "sellerName": "josh",
+      "saleItem": {
+        "id": 22634,
+        "amount": 75
+      },
+      "price": 50,
+      "timeListed": 1636172587025,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "josh",
+      "saleItem": {
+        "id": 13239,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636221139870,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

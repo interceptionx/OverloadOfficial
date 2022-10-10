@@ -1,0 +1,163 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "primatol",
+      "lastBuyerName": "A",
+      "saleItem": {
+        "id": 12436,
+        "amount": 2
+      },
+      "price": 350000,
+      "timeListed": 1635371911761,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1635423224177,
+      "buyersInfo": [
+        "A"
+      ]
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 10346,
+        "amount": 1
+      },
+      "price": 20000000,
+      "timeListed": 1635951089820,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1636380480028,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 24419,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636380485419,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 20366,
+        "amount": 2
+      },
+      "price": 1000000,
+      "timeListed": 1636380509431,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 27003,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1636380520238,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 30131,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636380525630,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 27000,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1636380531026,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 21291,
+        "amount": 2
+      },
+      "price": 760000,
+      "timeListed": 1636380628836,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 16005,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1636380643828,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 12102,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1636380651627,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "primatol",
+      "saleItem": {
+        "id": 22319,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636380657623,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "1985",
+      "saleItem": {
+        "id": 22634,
+        "amount": 75
+      },
+      "price": 50,
+      "timeListed": 1636220346657,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1985",
+      "lastBuyerName": "Venereal",
+      "saleItem": {
+        "id": 22636,
+        "amount": 75
+      },
+      "price": 3500,
+      "timeListed": 1636220342454,
+      "amountSold": 15,
+      "profit": 52500,
+      "transactionTime": 1636679023442,
+      "buyersInfo": [
+        "Venereal"
+      ]
+    },
+    {
+      "sellerName": "1985",
+      "saleItem": {
+        "id": 21006,
+        "amount": 1
+      },
+      "price": 499000,
+      "timeListed": 1636230212142,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

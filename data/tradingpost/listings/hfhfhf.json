@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "hfhfhf",
+      "saleItem": {
+        "id": 23246,
+        "amount": 1
+      },
+      "price": 130000,
+      "timeListed": 1635334713650,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "hfhfhf",
+      "lastBuyerName": "Chaotic Jr",
+      "saleItem": {
+        "id": 22641,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1635343640715,
+      "amountSold": 1,
+      "profit": 400000,
+      "transactionTime": 1635420587692,
+      "buyersInfo": [
+        "Chaotic Jr"
+      ]
+    }
+  ]
+}

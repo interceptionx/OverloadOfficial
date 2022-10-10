@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "kbd",
+      "saleItem": {
+        "id": 21007,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636077905408,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kbd",
+      "saleItem": {
+        "id": 12904,
+        "amount": 2
+      },
+      "price": 500000,
+      "timeListed": 1636078056606,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

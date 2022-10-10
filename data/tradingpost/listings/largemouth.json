@@ -1,0 +1,21 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "largemouth",
+      "lastBuyerName": "Murphin",
+      "saleItem": {
+        "id": 30235,
+        "amount": 44721
+      },
+      "price": 105,
+      "timeListed": 1635611590808,
+      "amountSold": 44721,
+      "profit": 75705,
+      "transactionTime": 1635699821049,
+      "buyersInfo": [
+        "Swapcity",
+        "Murphin"
+      ]
+    }
+  ]
+}

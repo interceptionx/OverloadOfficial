@@ -1,0 +1,76 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "candykill",
+      "saleItem": {
+        "id": 12809,
+        "amount": 1
+      },
+      "price": 190000,
+      "timeListed": 1634484362148,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "candykill",
+      "saleItem": {
+        "id": 22625,
+        "amount": 1
+      },
+      "price": 200000,
+      "timeListed": 1635063230070,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "candykill",
+      "lastBuyerName": "HUNCHO",
+      "saleItem": {
+        "id": 19550,
+        "amount": 1
+      },
+      "price": 450000,
+      "timeListed": 1634830390058,
+      "amountSold": 1,
+      "profit": 450000,
+      "transactionTime": 1635861465258,
+      "buyersInfo": [
+        "HUNCHO"
+      ]
+    },
+    {
+      "sellerName": "candykill",
+      "saleItem": {
+        "id": 28642,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1635063042872,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "candykill",
+      "lastBuyerName": "Gary9",
+      "saleItem": {
+        "id": 24417,
+        "amount": 2
+      },
+      "price": 359000,
+      "timeListed": 1635536388162,
+      "amountSold": 2,
+      "profit": 718000,
+      "transactionTime": 1635904280744,
+      "buyersInfo": [
+        "Virgin",
+        "Gary9"
+      ]
+    }
+  ]
+}

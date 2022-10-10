@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "kim19",
+      "saleItem": {
+        "id": 22653,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636295578695,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kim19",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636295581691,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kim19",
+      "saleItem": {
+        "id": 21047,
+        "amount": 3
+      },
+      "price": 750000,
+      "timeListed": 1636334117251,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

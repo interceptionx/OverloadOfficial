@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "mykey",
+      "lastBuyerName": "Outlast",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636607407714,
+      "amountSold": 1,
+      "profit": 500000,
+      "transactionTime": 1636742178914,
+      "buyersInfo": [
+        "Outlast"
+      ]
+    }
+  ]
+}

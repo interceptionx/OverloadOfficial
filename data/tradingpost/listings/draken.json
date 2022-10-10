@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "draken",
+      "saleItem": {
+        "id": 12436,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1635362678692,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "draken",
+      "saleItem": {
+        "id": 22653,
+        "amount": 1
+      },
+      "price": 449000,
+      "timeListed": 1635376605717,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "draken",
+      "saleItem": {
+        "id": 13188,
+        "amount": 1
+      },
+      "price": 1199000,
+      "timeListed": 1635446149660,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

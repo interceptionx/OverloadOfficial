@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "bigbog",
+      "saleItem": {
+        "id": 22632,
+        "amount": 3
+      },
+      "price": 298000,
+      "timeListed": 1636574853755,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "bigbog",
+      "saleItem": {
+        "id": 20848,
+        "amount": 2
+      },
+      "price": 100000,
+      "timeListed": 1636574973152,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

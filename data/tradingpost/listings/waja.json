@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "waja",
+      "saleItem": {
+        "id": 22610,
+        "amount": 1
+      },
+      "price": 100000,
+      "timeListed": 1636395730677,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "waja",
+      "saleItem": {
+        "id": 22653,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1635727489076,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

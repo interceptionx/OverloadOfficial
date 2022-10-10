@@ -1,0 +1,37 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "hibashi",
+      "lastBuyerName": "Danny Jones",
+      "saleItem": {
+        "id": 30235,
+        "amount": 20216
+      },
+      "price": 90,
+      "timeListed": 1635795086385,
+      "amountSold": 20216,
+      "profit": 1819440,
+      "transactionTime": 1635806060213,
+      "buyersInfo": [
+        "Swapcity",
+        "Danny Jones"
+      ]
+    },
+    {
+      "sellerName": "hibashi",
+      "lastBuyerName": "Cotzy",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1635795171594,
+      "amountSold": 1,
+      "profit": 300000,
+      "transactionTime": 1635873460816,
+      "buyersInfo": [
+        "Cotzy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "help": {
+    "name": "Help",
+    "owner": "help",
+    "slogan": "We are here to help",
+    "joinable": "ANYONE",
+    "talkable": "ANYONE",
+    "kickable": "LEADER",
+    "managable": "LEADER",
+    "lootshare": true,
+    "lock": false,
+    "memberLimit": 100,
+    "ranked": {
+      "help": "LEADER",
+      "juicy": "LEADER",
+      "not hc": "GENERAL",
+      "chaotic jr": "GENERAL"
+    }
+  }
+}

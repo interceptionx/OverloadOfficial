@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ivar",
+      "saleItem": {
+        "id": 22634,
+        "amount": 75
+      },
+      "price": 100,
+      "timeListed": 1635105456022,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ivar",
+      "saleItem": {
+        "id": 11804,
+        "amount": 1
+      },
+      "price": 40000,
+      "timeListed": 1635499389856,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

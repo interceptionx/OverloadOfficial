@@ -1,0 +1,150 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 30252,
+        "amount": 1
+      },
+      "price": 9900000,
+      "timeListed": 1636322924505,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 19547,
+        "amount": 1
+      },
+      "price": 244000,
+      "timeListed": 1636325397178,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 12102,
+        "amount": 1
+      },
+      "price": 1999000,
+      "timeListed": 1636325417578,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 12825,
+        "amount": 1
+      },
+      "price": 1999000,
+      "timeListed": 1636325445191,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 22628,
+        "amount": 1
+      },
+      "price": 244000,
+      "timeListed": 1636325498585,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 14901,
+        "amount": 1
+      },
+      "price": 349000,
+      "timeListed": 1636325545987,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 23995,
+        "amount": 1
+      },
+      "price": 469000,
+      "timeListed": 1636325560990,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "lastBuyerName": "Svjq",
+      "saleItem": {
+        "id": 11771,
+        "amount": 2
+      },
+      "price": 444000,
+      "timeListed": 1636325587989,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1636325879006,
+      "buyersInfo": [
+        "Svjq"
+      ]
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 21004,
+        "amount": 1
+      },
+      "price": 800000,
+      "timeListed": 1636330683938,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 30228,
+        "amount": 1
+      },
+      "price": 900000,
+      "timeListed": 1636336420713,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "1659",
+      "saleItem": {
+        "id": 10586,
+        "amount": 1
+      },
+      "price": 2100000,
+      "timeListed": 1636373570223,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

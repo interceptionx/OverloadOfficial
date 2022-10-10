@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "legenda20",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636440933028,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

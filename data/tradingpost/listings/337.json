@@ -1,0 +1,21 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "337",
+      "lastBuyerName": "Chaotic Alt",
+      "saleItem": {
+        "id": 20368,
+        "amount": 2
+      },
+      "price": 725000,
+      "timeListed": 1635130502624,
+      "amountSold": 2,
+      "profit": 1450000,
+      "transactionTime": 1635846494227,
+      "buyersInfo": [
+        "Entrance",
+        "Chaotic Alt"
+      ]
+    }
+  ]
+}

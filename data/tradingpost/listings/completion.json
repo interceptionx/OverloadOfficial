@@ -1,0 +1,59 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "completion",
+      "lastBuyerName": "Blizrdstorm",
+      "saleItem": {
+        "id": 12926,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636128680721,
+      "amountSold": 1,
+      "profit": 500000,
+      "transactionTime": 1636609137561,
+      "buyersInfo": [
+        "Blizrdstorm"
+      ]
+    },
+    {
+      "sellerName": "completion",
+      "saleItem": {
+        "id": 20693,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1636215365897,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "completion",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1636215393505,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "completion",
+      "saleItem": {
+        "id": 21003,
+        "amount": 1
+      },
+      "price": 950000,
+      "timeListed": 1636215404303,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

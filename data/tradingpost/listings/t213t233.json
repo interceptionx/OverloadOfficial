@@ -1,0 +1,24 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "t213t233",
+      "lastBuyerName": "Danny Jones",
+      "saleItem": {
+        "id": 30235,
+        "amount": 3810
+      },
+      "price": 89,
+      "timeListed": 1635326640404,
+      "amountSold": 3810,
+      "profit": 339090,
+      "transactionTime": 1635467059090,
+      "buyersInfo": [
+        "Danny Jones",
+        "Billybob",
+        "Outlast",
+        "Billybob",
+        "Danny Jones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "outlast",
+      "saleItem": {
+        "id": 23995,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636241643688,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "outlast",
+      "saleItem": {
+        "id": 20366,
+        "amount": 1
+      },
+      "price": 1300000,
+      "timeListed": 1636241611290,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "outlast",
+      "saleItem": {
+        "id": 21047,
+        "amount": 1
+      },
+      "price": 700000,
+      "timeListed": 1636435530469,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "outlast",
+      "saleItem": {
+        "id": 10858,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636752186621,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

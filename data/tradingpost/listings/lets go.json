@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "lets go",
+      "lastBuyerName": "CandyKills",
+      "saleItem": {
+        "id": 11830,
+        "amount": 2
+      },
+      "price": 50000,
+      "timeListed": 1635448062520,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1635610822182,
+      "buyersInfo": [
+        "CandyKills"
+      ]
+    },
+    {
+      "sellerName": "lets go",
+      "saleItem": {
+        "id": 13263,
+        "amount": 1
+      },
+      "price": 50000,
+      "timeListed": 1635546057451,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

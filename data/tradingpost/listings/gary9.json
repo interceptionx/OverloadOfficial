@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "gary9",
+      "saleItem": {
+        "id": 20693,
+        "amount": 1
+      },
+      "price": 4000000,
+      "timeListed": 1635853041603,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

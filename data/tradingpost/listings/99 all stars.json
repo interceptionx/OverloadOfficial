@@ -1,0 +1,49 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "99 all stars",
+      "saleItem": {
+        "id": 21015,
+        "amount": 1
+      },
+      "price": 100000,
+      "timeListed": 1635491277613,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "99 all stars",
+      "lastBuyerName": "Low Key",
+      "saleItem": {
+        "id": 22550,
+        "amount": 1
+      },
+      "price": 200000,
+      "timeListed": 1635491298622,
+      "amountSold": 1,
+      "profit": 200000,
+      "transactionTime": 1635728882309,
+      "buyersInfo": [
+        "Low Key"
+      ]
+    },
+    {
+      "sellerName": "99 all stars",
+      "lastBuyerName": "Chaotic Jr",
+      "saleItem": {
+        "id": 13237,
+        "amount": 1
+      },
+      "price": 150000,
+      "timeListed": 1635542304932,
+      "amountSold": 1,
+      "profit": 150000,
+      "transactionTime": 1635678435196,
+      "buyersInfo": [
+        "Chaotic Jr"
+      ]
+    }
+  ]
+}

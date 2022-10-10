@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "p e t",
+      "saleItem": {
+        "id": 21047,
+        "amount": 1
+      },
+      "price": 4000000,
+      "timeListed": 1634703580060,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

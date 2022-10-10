@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "firstblood1",
+      "lastBuyerName": "Danny Jones",
+      "saleItem": {
+        "id": 619,
+        "amount": 4
+      },
+      "price": 43000,
+      "timeListed": 1635456150162,
+      "amountSold": 4,
+      "profit": 172000,
+      "transactionTime": 1635457957417,
+      "buyersInfo": [
+        "Danny Jones"
+      ]
+    }
+  ]
+}

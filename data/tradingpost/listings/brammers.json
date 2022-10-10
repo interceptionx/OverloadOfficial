@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "brammers",
+      "saleItem": {
+        "id": 12931,
+        "amount": 1
+      },
+      "price": 130000,
+      "timeListed": 1635481574128,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

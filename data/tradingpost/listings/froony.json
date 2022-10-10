@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "froony",
+      "lastBuyerName": "Venereal",
+      "saleItem": {
+        "id": 24417,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1635186910878,
+      "amountSold": 1,
+      "profit": 400000,
+      "transactionTime": 1636678881240,
+      "buyersInfo": [
+        "Venereal"
+      ]
+    }
+  ]
+}

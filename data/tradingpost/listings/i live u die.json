@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "i live u die",
+      "lastBuyerName": "Gh0stt",
+      "saleItem": {
+        "id": 21003,
+        "amount": 1
+      },
+      "price": 450000,
+      "timeListed": 1635413242208,
+      "amountSold": 1,
+      "profit": 450000,
+      "transactionTime": 1635419942672,
+      "buyersInfo": [
+        "Gh0stt"
+      ]
+    }
+  ]
+}

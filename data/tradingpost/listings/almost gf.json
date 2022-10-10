@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "almost gf",
+      "saleItem": {
+        "id": 11808,
+        "amount": 1
+      },
+      "price": 24000,
+      "timeListed": 1635426419270,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "almost gf",
+      "saleItem": {
+        "id": 11802,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636171921611,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

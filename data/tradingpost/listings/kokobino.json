@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "kokobino",
+      "saleItem": {
+        "id": 24419,
+        "amount": 1
+      },
+      "price": 650000,
+      "timeListed": 1635805038386,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "kokobino",
+      "saleItem": {
+        "id": 22978,
+        "amount": 1
+      },
+      "price": 1650000,
+      "timeListed": 1635805064777,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

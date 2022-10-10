@@ -1,0 +1,147 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 1038,
+        "amount": 1
+      },
+      "price": 10000000,
+      "timeListed": 1637608466203,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 1040,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1637608468003,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 1042,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1637608469812,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 1044,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1637608471614,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 20370,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1637608473404,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 1048,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1637608475203,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 1046,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1637608477013,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 20372,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1637608479403,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 11802,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1637608516004,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 11804,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1637608517816,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "adlad",
+      "saleItem": {
+        "id": 20368,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1637608519618,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

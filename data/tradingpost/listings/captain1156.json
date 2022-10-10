@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "captain1156",
+      "saleItem": {
+        "id": 13263,
+        "amount": 1
+      },
+      "price": 100000,
+      "timeListed": 1634942268797,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "captain1156",
+      "saleItem": {
+        "id": 22638,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636209257120,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "captain1156",
+      "saleItem": {
+        "id": 12436,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1636210308958,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

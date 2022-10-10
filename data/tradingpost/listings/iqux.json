@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "iqux",
+      "lastBuyerName": "RTM Alt",
+      "saleItem": {
+        "id": 22002,
+        "amount": 1
+      },
+      "price": 129000,
+      "timeListed": 1635517923213,
+      "amountSold": 1,
+      "profit": 129000,
+      "transactionTime": 1635539735656,
+      "buyersInfo": [
+        "RTM Alt"
+      ]
+    }
+  ]
+}

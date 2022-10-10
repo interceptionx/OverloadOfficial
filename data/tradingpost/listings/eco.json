@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "eco",
+      "saleItem": {
+        "id": 12436,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636077777006,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "eco",
+      "saleItem": {
+        "id": 23818,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1636501609837,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "eco",
+      "saleItem": {
+        "id": 22978,
+        "amount": 1
+      },
+      "price": 950000,
+      "timeListed": 1636215956920,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "eco",
+      "saleItem": {
+        "id": 21890,
+        "amount": 1
+      },
+      "price": 1200000,
+      "timeListed": 1636128565521,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

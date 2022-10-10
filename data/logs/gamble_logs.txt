@@ -1,0 +1,4 @@
+[19 Dec. 2021, 12:41:12 p.m.] [Ferox GameThread] Player Test gamble value difference of 0 BM
+[19 Dec. 2021, 12:46:07 p.m.] [Ferox GameThread] Player Test gamble value difference of 0 BM
+[07 Jan. 2022, 4:04:50 p.m.] [Ferox GameThread] Player Test gamble value difference of 0 BM
+[07 Jan. 2022, 4:08:52 p.m.] [Ferox GameThread] Player Zoo gamble value difference of 0 BM

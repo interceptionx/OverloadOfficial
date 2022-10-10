@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "hazel",
+      "saleItem": {
+        "id": 16454,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1636322461895,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

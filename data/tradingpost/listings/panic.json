@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "panic",
+      "saleItem": {
+        "id": 22641,
+        "amount": 1
+      },
+      "price": 500000,
+      "timeListed": 1636409268887,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

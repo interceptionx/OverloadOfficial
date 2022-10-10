@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "freeplay",
+      "lastBuyerName": "Shank Sharky",
+      "saleItem": {
+        "id": 11830,
+        "amount": 2
+      },
+      "price": 79999,
+      "timeListed": 1634563404404,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1634565250017,
+      "buyersInfo": [
+        "Shank Sharky"
+      ]
+    },
+    {
+      "sellerName": "freeplay",
+      "saleItem": {
+        "id": 11805,
+        "amount": 1
+      },
+      "price": 125000,
+      "timeListed": 1634823872806,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

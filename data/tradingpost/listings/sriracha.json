@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "sriracha",
+      "lastBuyerName": "THOUXAN",
+      "saleItem": {
+        "id": 21003,
+        "amount": 1
+      },
+      "price": 750000,
+      "timeListed": 1636332823603,
+      "amountSold": 1,
+      "profit": 750000,
+      "transactionTime": 1636567451327,
+      "buyersInfo": [
+        "THOUXAN"
+      ]
+    }
+  ]
+}

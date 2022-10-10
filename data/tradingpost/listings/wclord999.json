@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "wclord999",
+      "saleItem": {
+        "id": 30016,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1635887406436,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "capalot",
+      "lastBuyerName": "Kbd",
+      "saleItem": {
+        "id": 30235,
+        "amount": 15500
+      },
+      "price": 80,
+      "timeListed": 1636170656763,
+      "amountSold": 15500,
+      "profit": 1240000,
+      "transactionTime": 1636560893726,
+      "buyersInfo": [
+        "Kbd",
+        "Kbd",
+        "Kbd"
+      ]
+    }
+  ]
+}

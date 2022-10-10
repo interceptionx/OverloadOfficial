@@ -1,0 +1,46 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "steroids",
+      "lastBuyerName": "Anonymous",
+      "saleItem": {
+        "id": 16454,
+        "amount": 1
+      },
+      "price": 2750000,
+      "timeListed": 1636330460742,
+      "amountSold": 1,
+      "profit": 2750000,
+      "transactionTime": 1636680582286,
+      "buyersInfo": [
+        "Anonymous"
+      ]
+    },
+    {
+      "sellerName": "steroids",
+      "saleItem": {
+        "id": 24423,
+        "amount": 1
+      },
+      "price": 3500000,
+      "timeListed": 1636330475128,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "steroids",
+      "saleItem": {
+        "id": 19553,
+        "amount": 1
+      },
+      "price": 270000,
+      "timeListed": 1636330712748,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

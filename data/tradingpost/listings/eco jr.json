@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "eco jr",
+      "saleItem": {
+        "id": 12601,
+        "amount": 1
+      },
+      "price": 50000,
+      "timeListed": 1635890116109,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "eco jr",
+      "saleItem": {
+        "id": 11834,
+        "amount": 1
+      },
+      "price": 150000,
+      "timeListed": 1636171803403,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

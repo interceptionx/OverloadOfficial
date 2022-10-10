@@ -1,0 +1,108 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 22622,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636202655719,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 30239,
+        "amount": 1
+      },
+      "price": 7000000,
+      "timeListed": 1636386732215,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 29001,
+        "amount": 1
+      },
+      "price": 4000000,
+      "timeListed": 1636928205410,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 29000,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1636928209597,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 12424,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636928213207,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 12422,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636928216207,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 24424,
+        "amount": 1
+      },
+      "price": 2500000,
+      "timeListed": 1636928248005,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ares",
+      "saleItem": {
+        "id": 19649,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1636928254599,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

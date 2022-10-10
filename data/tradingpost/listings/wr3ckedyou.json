@@ -1,0 +1,95 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 19547,
+        "amount": 1
+      },
+      "price": 245000,
+      "timeListed": 1636140620488,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1636247262861,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 21003,
+        "amount": 1
+      },
+      "price": 850000,
+      "timeListed": 1636243434744,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 30226,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636245480198,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 30225,
+        "amount": 1
+      },
+      "price": 2300000,
+      "timeListed": 1636245493996,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 19550,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1636247591658,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "wr3ckedyou",
+      "saleItem": {
+        "id": 25731,
+        "amount": 1
+      },
+      "price": 10000000,
+      "timeListed": 1636243658542,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "tweetmykills",
+      "lastBuyerName": "2much",
+      "saleItem": {
+        "id": 19481,
+        "amount": 5
+      },
+      "price": 65000,
+      "timeListed": 1635624633388,
+      "amountSold": 1,
+      "profit": 65000,
+      "transactionTime": 1636682308545,
+      "buyersInfo": [
+        "2much"
+      ]
+    },
+    {
+      "sellerName": "tweetmykills",
+      "saleItem": {
+        "id": 22975,
+        "amount": 4
+      },
+      "price": 145000,
+      "timeListed": 1635624615387,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

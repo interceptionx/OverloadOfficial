@@ -1,0 +1,59 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "donkey",
+      "saleItem": {
+        "id": 30224,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1634822139388,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "donkey",
+      "saleItem": {
+        "id": 12848,
+        "amount": 2
+      },
+      "price": 1000000,
+      "timeListed": 1635282998902,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "donkey",
+      "lastBuyerName": "Chaotic Alt",
+      "saleItem": {
+        "id": 13237,
+        "amount": 2
+      },
+      "price": 300000,
+      "timeListed": 1635800656447,
+      "amountSold": 2,
+      "profit": 600000,
+      "transactionTime": 1635846445011,
+      "buyersInfo": [
+        "Chaotic Alt"
+      ]
+    },
+    {
+      "sellerName": "donkey",
+      "saleItem": {
+        "id": 11802,
+        "amount": 4
+      },
+      "price": 120000,
+      "timeListed": 1635800660651,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

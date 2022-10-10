@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "fortnite",
+      "saleItem": {
+        "id": 12806,
+        "amount": 1
+      },
+      "price": 35000,
+      "timeListed": 1634656495580,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

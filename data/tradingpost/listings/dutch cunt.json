@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "dutch cunt",
+      "saleItem": {
+        "id": 30228,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1635167279925,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "dutch cunt",
+      "lastBuyerName": "2much",
+      "saleItem": {
+        "id": 30186,
+        "amount": 4
+      },
+      "price": 350000,
+      "timeListed": 1635753916859,
+      "amountSold": 1,
+      "profit": 0,
+      "transactionTime": 1635992054842,
+      "buyersInfo": [
+        "2much"
+      ]
+    }
+  ]
+}

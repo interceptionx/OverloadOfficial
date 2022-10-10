@@ -1,0 +1,21 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "collector",
+      "lastBuyerName": "Coats",
+      "saleItem": {
+        "id": 30235,
+        "amount": 3350
+      },
+      "price": 90,
+      "timeListed": 1635373467010,
+      "amountSold": 3350,
+      "profit": 301500,
+      "transactionTime": 1635473337681,
+      "buyersInfo": [
+        "Danny Jones",
+        "Coats"
+      ]
+    }
+  ]
+}

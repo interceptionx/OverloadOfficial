@@ -1,0 +1,120 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ferocious",
+      "lastBuyerName": "13r01y",
+      "saleItem": {
+        "id": 13239,
+        "amount": 1
+      },
+      "price": 299000,
+      "timeListed": 1636330206926,
+      "amountSold": 1,
+      "profit": 299000,
+      "transactionTime": 1636766642836,
+      "buyersInfo": [
+        "13r01y"
+      ]
+    },
+    {
+      "sellerName": "ferocious",
+      "saleItem": {
+        "id": 22550,
+        "amount": 1
+      },
+      "price": 650000,
+      "timeListed": 1636465804368,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ferocious",
+      "saleItem": {
+        "id": 22545,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636465825959,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ferocious",
+      "lastBuyerName": "Outlast",
+      "saleItem": {
+        "id": 2944,
+        "amount": 1
+      },
+      "price": 550000,
+      "timeListed": 1636466620391,
+      "amountSold": 1,
+      "profit": 550000,
+      "transactionTime": 1636742380527,
+      "buyersInfo": [
+        "Outlast"
+      ]
+    },
+    {
+      "sellerName": "ferocious",
+      "lastBuyerName": "Bigbog",
+      "saleItem": {
+        "id": 22653,
+        "amount": 1
+      },
+      "price": 175000,
+      "timeListed": 1636466630596,
+      "amountSold": 1,
+      "profit": 175000,
+      "transactionTime": 1636581000330,
+      "buyersInfo": [
+        "Bigbog"
+      ]
+    },
+    {
+      "sellerName": "ferocious",
+      "lastBuyerName": "Bigbog",
+      "saleItem": {
+        "id": 22656,
+        "amount": 1
+      },
+      "price": 175000,
+      "timeListed": 1636466634784,
+      "amountSold": 1,
+      "profit": 175000,
+      "transactionTime": 1636581003925,
+      "buyersInfo": [
+        "Bigbog"
+      ]
+    },
+    {
+      "sellerName": "ferocious",
+      "saleItem": {
+        "id": 12002,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636466658807,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ferocious",
+      "saleItem": {
+        "id": 21633,
+        "amount": 1
+      },
+      "price": 250000,
+      "timeListed": 1636466670791,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

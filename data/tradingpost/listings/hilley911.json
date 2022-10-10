@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "hilley911",
+      "lastBuyerName": "Whipping",
+      "saleItem": {
+        "id": 619,
+        "amount": 3
+      },
+      "price": 55000,
+      "timeListed": 1636621910147,
+      "amountSold": 3,
+      "profit": 165000,
+      "transactionTime": 1636738488807,
+      "buyersInfo": [
+        "Whipping"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "hyzt",
+      "lastBuyerName": "Eco",
+      "saleItem": {
+        "id": 16278,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636209209116,
+      "amountSold": 1,
+      "profit": 2000000,
+      "transactionTime": 1636682417736,
+      "buyersInfo": [
+        "Eco"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "forgotpasswd",
+      "lastBuyerName": "Chaotic Jr",
+      "saleItem": {
+        "id": 21018,
+        "amount": 1
+      },
+      "price": 400000,
+      "timeListed": 1635553667486,
+      "amountSold": 1,
+      "profit": 400000,
+      "transactionTime": 1635678358991,
+      "buyersInfo": [
+        "Chaotic Jr"
+      ]
+    },
+    {
+      "sellerName": "forgotpasswd",
+      "saleItem": {
+        "id": 962,
+        "amount": 1
+      },
+      "price": 997000,
+      "timeListed": 1635554077298,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "free da guys",
+      "saleItem": {
+        "id": 30252,
+        "amount": 2
+      },
+      "price": 9800000,
+      "timeListed": 1636872131940,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "free da guys",
+      "saleItem": {
+        "id": 25739,
+        "amount": 1
+      },
+      "price": 95000000,
+      "timeListed": 1636872152931,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "free da guys",
+      "saleItem": {
+        "id": 30297,
+        "amount": 1
+      },
+      "price": 24000000,
+      "timeListed": 1636872169140,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

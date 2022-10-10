@@ -1,0 +1,496 @@
+[
+  {
+    "id": 2818,
+    "x": 3090,
+    "y": 3510,
+    "z": 0,
+    "radius": 0,
+    "direction": "E",
+    "desc": "BM Shop"
+  },
+  {
+    "id": 2148,
+    "x": 3095,
+    "y": 3495,
+    "z": 0,
+    "direction": "W"
+  },
+  {
+    "name": "Wizard Mizgog",
+    "id": 7746,
+    "x": 3105,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "RiskZone Point Shop",
+    "id": 6043,
+    "x": 3083,
+    "y": 3499,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+    }
+  },
+  {
+    "name": "Tournament Manager",
+    "id": 3194,
+    "x": 3095,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+    }
+  },
+  {
+    "name": "Hunting expert",
+    "id": 1503,
+    "x": 3104,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "id": 2882,
+    "x": 3107,
+    "y": 3513,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "id": 13008,
+    "x": 3065,
+    "y": 3536,
+    "walkRange": 5
+  },
+  {
+    "id": 13008,
+    "x": 3059,
+    "y": 3537,
+    "walkRange": 5
+  },
+  {
+    "id": 13008,
+    "x": 3054,
+    "y": 3543,
+    "walkRange": 5
+  },
+  {
+    "id": 13000,
+    "x": 3042,
+    "y": 3553,
+    "walkRange": 5
+  },
+  {
+    "id": 13000,
+    "x": 3045,
+    "y": 3551,
+    "walkRange": 5
+  },
+  {
+    "id": 13000,
+    "x": 3046,
+    "y": 3533,
+    "walkRange": 5
+  },
+  {
+    "id": 13000,
+    "x": 3045,
+    "y": 3537,
+    "walkRange": 5
+  },
+  {
+    "id": 13002,
+    "x": 3043,
+    "y": 3542,
+    "walkRange": 5
+  },
+  {
+    "id": 13002,
+    "x": 3048,
+    "y": 3534,
+    "walkRange": 5
+  },
+  {
+    "id": 13002,
+    "x": 3069,
+    "y": 3535,
+    "walkRange": 5
+  },
+  {
+    "id": 13002,
+    "x": 3050,
+    "y": 3543,
+    "walkRange": 5
+  },
+  {
+    "id": 13004,
+    "x": 3050,
+    "y": 3535,
+    "walkRange": 5
+  },
+  {
+    "id": 13004,
+    "x": 3056,
+    "y": 3542,
+    "walkRange": 5
+  },
+  {
+    "id": 13004,
+    "x": 3058,
+    "y": 3551,
+    "walkRange": 5
+  },
+  {
+    "id": 13004,
+    "x": 3061,
+    "y": 3540,
+    "walkRange": 5
+  },
+  {
+    "id": 13004,
+    "x": 3062,
+    "y": 3536,
+    "walkRange": 5
+  },
+  {
+    "id": 13004,
+    "x": 3062,
+    "y": 3557,
+    "walkRange": 5
+  },
+  {
+    "id": 13006,
+    "x": 3048,
+    "y": 3545,
+    "walkRange": 5
+  },
+  {
+    "id": 13006,
+    "x": 3052,
+    "y": 3549,
+    "walkRange": 5
+  },
+  {
+    "id": 13006,
+    "x": 3056,
+    "y": 3548,
+    "walkRange": 5
+  },
+  {
+    "id": 13006,
+    "x": 3054,
+    "y": 3538,
+    "walkRange": 5
+  },
+  {
+    "name": "Mac",
+    "id": 6481,
+    "x": 3069,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Hans",
+    "id": 3105,
+    "x": 3104,
+    "y": 3496,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Referral Manager",
+    "id": 9413,
+    "x": 3109,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Task master",
+    "id": 403,
+    "x": 3110,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Perdu",
+    "id": 7456,
+    "x": 3084,
+    "y": 3501,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Krystilia",
+    "id": 7663,
+    "x": 3109,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Emblem Trader",
+    "id": 308,
+    "x": 3094,
+    "y": 3510,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2,
+    "world": "ECO"
+  },
+  {
+    "name": "Paul",
+    "id": 311,
+    "x": 3103,
+    "y": 3501,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Surok Magis",
+    "id": 4159,
+    "x": 3091,
+    "y": 3497,
+    "z": 0,
+    "direction": "E"
+  },
+  {
+    "name": "Tournament Store",
+    "id": 7316,
+    "x": 3097,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Donation Store",
+    "id": 2108,
+    "x": 3111,
+    "y": 3505,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0,
+    "shopOptions": {
+      "Open-shop": "545d3f40-361e-42ce-84bc-4681264685de"
+    }
+  },
+  {
+    "name": "Pk Supplies Store",
+    "id": 1755,
+    "x": 3090,
+    "y": 3511,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Vote Store",
+    "id": 1815,
+    "x": 3110,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0,
+    "shopOptions": {
+      "trade": "aecef817-39c1-4a22-9ee9-2815da9dd3df"
+    }
+  },
+  {
+    "name": "Combat dummy",
+    "id": 2668,
+    "x": 3090,
+    "y": 3512,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3090,
+    "y": 3513,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 3092,
+    "y": 3507,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3109,
+    "y": 3499,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3109,
+    "y": 3497,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3110,
+    "y": 3500,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Make-over mage",
+    "id": 1307,
+    "x": 3102,
+    "y": 3505,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Security Advisor",
+    "id": 5442,
+    "x": 3105,
+    "y": 3496,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 3285,
+    "y": 9443,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3050,
+    "y": 3492,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3050,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Ram",
+    "id": 1265,
+    "x": 3052,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Rooster",
+    "id": 2803,
+    "x": 3053,
+    "y": 3517,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3053,
+    "y": 3491,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Chicken",
+    "id": 2804,
+    "x": 3054,
+    "y": 3516,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 4
+  },
+  {
+    "name": "Abbot Langley",
+    "id": 2577,
+    "x": 3057,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Black Knight",
+    "id": 508,
+    "x": 3036,
+    "y": 3505,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 3
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3046,
+    "y": 3484,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Monk",
+    "id": 2579,
+    "x": 3045,
+    "y": 3496,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Brother Althric",
+    "id": 1397,
+    "x": 3048,
+    "y": 3506,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  }
+]

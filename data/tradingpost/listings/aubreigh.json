@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "aubreigh",
+      "saleItem": {
+        "id": 1040,
+        "amount": 1
+      },
+      "price": 1000000,
+      "timeListed": 1636096922370,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "aubreigh",
+      "saleItem": {
+        "id": 12826,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636300801249,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "aubreigh",
+      "saleItem": {
+        "id": 21006,
+        "amount": 1
+      },
+      "price": 300000,
+      "timeListed": 1636325349188,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "aubreigh",
+      "saleItem": {
+        "id": 12002,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1636331205951,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

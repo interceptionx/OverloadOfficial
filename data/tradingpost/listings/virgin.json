@@ -1,0 +1,88 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "virgin",
+      "saleItem": {
+        "id": 22249,
+        "amount": 1
+      },
+      "price": 1500000,
+      "timeListed": 1636171187190,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "virgin",
+      "saleItem": {
+        "id": 30038,
+        "amount": 1
+      },
+      "price": 3500000,
+      "timeListed": 1636002601961,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "virgin",
+      "saleItem": {
+        "id": 30077,
+        "amount": 1
+      },
+      "price": 7000000,
+      "timeListed": 1636002558153,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "virgin",
+      "lastBuyerName": "Hollywood Ud",
+      "saleItem": {
+        "id": 30080,
+        "amount": 1
+      },
+      "price": 7000000,
+      "timeListed": 1636002562965,
+      "amountSold": 1,
+      "profit": 7000000,
+      "transactionTime": 1636688729923,
+      "buyersInfo": [
+        "Hollywood Ud"
+      ]
+    },
+    {
+      "sellerName": "virgin",
+      "lastBuyerName": "Blizrdstorm",
+      "saleItem": {
+        "id": 27006,
+        "amount": 1
+      },
+      "price": 7000000,
+      "timeListed": 1636002664370,
+      "amountSold": 1,
+      "profit": 7000000,
+      "transactionTime": 1636597642429,
+      "buyersInfo": [
+        "Blizrdstorm"
+      ]
+    },
+    {
+      "sellerName": "virgin",
+      "saleItem": {
+        "id": 28641,
+        "amount": 1
+      },
+      "price": 8500000,
+      "timeListed": 1636002592963,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "jigelojay",
+      "saleItem": {
+        "id": 22610,
+        "amount": 1
+      },
+      "price": 125000,
+      "timeListed": 1636326485011,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "jigelojay",
+      "saleItem": {
+        "id": 12606,
+        "amount": 1
+      },
+      "price": 75000,
+      "timeListed": 1636326512021,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

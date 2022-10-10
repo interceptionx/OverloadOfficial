@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ex rain",
+      "saleItem": {
+        "id": 12931,
+        "amount": 1
+      },
+      "price": 80000,
+      "timeListed": 1636483517497,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "ehwaz",
+      "saleItem": {
+        "id": 1038,
+        "amount": 1
+      },
+      "price": 1400000,
+      "timeListed": 1636123656174,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ehwaz",
+      "saleItem": {
+        "id": 13652,
+        "amount": 1
+      },
+      "price": 150000,
+      "timeListed": 1636139854248,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "ehwaz",
+      "saleItem": {
+        "id": 30226,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1636380880230,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

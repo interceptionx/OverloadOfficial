@@ -1,0 +1,56 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "vrex",
+      "saleItem": {
+        "id": 21012,
+        "amount": 1
+      },
+      "price": 450000,
+      "timeListed": 1635886879624,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "vrex",
+      "saleItem": {
+        "id": 30228,
+        "amount": 1
+      },
+      "price": 750000,
+      "timeListed": 1636739151234,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "vrex",
+      "saleItem": {
+        "id": 10586,
+        "amount": 1
+      },
+      "price": 1800000,
+      "timeListed": 1636739171024,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "vrex",
+      "saleItem": {
+        "id": 22323,
+        "amount": 1
+      },
+      "price": 3000000,
+      "timeListed": 1636917171673,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

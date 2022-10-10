@@ -1,0 +1,108 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 24937,
+        "amount": 1
+      },
+      "price": 30000000,
+      "timeListed": 1636985688319,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 12646,
+        "amount": 1
+      },
+      "price": 5000000,
+      "timeListed": 1636985694918,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 27002,
+        "amount": 1
+      },
+      "price": 1400000,
+      "timeListed": 1636985705722,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 26502,
+        "amount": 1
+      },
+      "price": 6000000,
+      "timeListed": 1636985715318,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 27004,
+        "amount": 1
+      },
+      "price": 1300000,
+      "timeListed": 1636985727913,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 24511,
+        "amount": 1
+      },
+      "price": 2700000,
+      "timeListed": 1636985737518,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 20366,
+        "amount": 1
+      },
+      "price": 900000,
+      "timeListed": 1636985846133,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "billybob",
+      "saleItem": {
+        "id": 12926,
+        "amount": 2
+      },
+      "price": 600000,
+      "timeListed": 1636985856320,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

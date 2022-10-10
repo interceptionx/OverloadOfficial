@@ -1,0 +1,20 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "huncho",
+      "lastBuyerName": "Anonymous",
+      "saleItem": {
+        "id": 30241,
+        "amount": 1
+      },
+      "price": 790000,
+      "timeListed": 1635502721759,
+      "amountSold": 1,
+      "profit": 790000,
+      "transactionTime": 1636544189240,
+      "buyersInfo": [
+        "Anonymous"
+      ]
+    }
+  ]
+}

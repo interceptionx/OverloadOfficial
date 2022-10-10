@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "candykills",
+      "saleItem": {
+        "id": 11828,
+        "amount": 1
+      },
+      "price": 150000,
+      "timeListed": 1635610658368,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

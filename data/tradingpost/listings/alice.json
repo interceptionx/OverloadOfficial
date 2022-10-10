@@ -1,0 +1,30 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "alice",
+      "saleItem": {
+        "id": 30074,
+        "amount": 1
+      },
+      "price": 4000000,
+      "timeListed": 1636480557009,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "alice",
+      "saleItem": {
+        "id": 30235,
+        "amount": 29324
+      },
+      "price": 120,
+      "timeListed": 1636480594200,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

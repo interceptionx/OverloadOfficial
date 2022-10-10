@@ -1,0 +1,111 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 23246,
+        "amount": 1
+      },
+      "price": 2000000,
+      "timeListed": 1634851318236,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 13652,
+        "amount": 1
+      },
+      "price": 180000,
+      "timeListed": 1634851468843,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 22625,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1634851488035,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 11283,
+        "amount": 1
+      },
+      "price": 80000,
+      "timeListed": 1634851553444,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "randomzerker",
+      "lastBuyerName": "Anonymous",
+      "saleItem": {
+        "id": 22327,
+        "amount": 1
+      },
+      "price": 650000,
+      "timeListed": 1634859885710,
+      "amountSold": 1,
+      "profit": 650000,
+      "transactionTime": 1636544196431,
+      "buyersInfo": [
+        "Anonymous"
+      ]
+    },
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 11830,
+        "amount": 1
+      },
+      "price": 70000,
+      "timeListed": 1634922094835,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 22636,
+        "amount": 225
+      },
+      "price": 4600,
+      "timeListed": 1635101880597,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "randomzerker",
+      "saleItem": {
+        "id": 30222,
+        "amount": 1
+      },
+      "price": 1800000,
+      "timeListed": 1635899274197,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

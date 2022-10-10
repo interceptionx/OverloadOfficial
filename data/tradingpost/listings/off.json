@@ -1,0 +1,101 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "off",
+      "saleItem": {
+        "id": 1046,
+        "amount": 1
+      },
+      "price": 1300000,
+      "timeListed": 1634840018350,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "off",
+      "saleItem": {
+        "id": 11863,
+        "amount": 1
+      },
+      "price": 3500000,
+      "timeListed": 1634820134182,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "off",
+      "saleItem": {
+        "id": 22325,
+        "amount": 1
+      },
+      "price": 15000000,
+      "timeListed": 1636211922404,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "off",
+      "saleItem": {
+        "id": 22326,
+        "amount": 1
+      },
+      "price": 450000,
+      "timeListed": 1636383151900,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    },
+    {
+      "sellerName": "off",
+      "lastBuyerName": "Outlast",
+      "saleItem": {
+        "id": 14901,
+        "amount": 1
+      },
+      "price": 340000,
+      "timeListed": 1636383163297,
+      "amountSold": 1,
+      "profit": 340000,
+      "transactionTime": 1636742388922,
+      "buyersInfo": [
+        "Outlast"
+      ]
+    },
+    {
+      "sellerName": "off",
+      "lastBuyerName": "Blizrdstorm",
+      "saleItem": {
+        "id": 24981,
+        "amount": 1
+      },
+      "price": 7500000,
+      "timeListed": 1636508887442,
+      "amountSold": 1,
+      "profit": 7500000,
+      "transactionTime": 1636610412008,
+      "buyersInfo": [
+        "Blizrdstorm"
+      ]
+    },
+    {
+      "sellerName": "off",
+      "saleItem": {
+        "id": 20997,
+        "amount": 1
+      },
+      "price": 14000000,
+      "timeListed": 1636508892853,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}

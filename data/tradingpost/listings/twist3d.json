@@ -1,0 +1,17 @@
+{
+  "listedItems": [
+    {
+      "sellerName": "twist3d",
+      "saleItem": {
+        "id": 13237,
+        "amount": 1
+      },
+      "price": 350000,
+      "timeListed": 1635923742324,
+      "amountSold": 0,
+      "profit": 0,
+      "transactionTime": 0,
+      "buyersInfo": []
+    }
+  ]
+}
