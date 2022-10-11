@@ -34,9 +34,9 @@ import static io.netty.util.ResourceLeakDetector.Level.PARANOID;
 public class GameServer { //testchange
 
     /**
-     * lets make a test change to show you, follow the mouse
+     * lets make a test change to show you, follow the mouse, ill let you try now.
      */
-    public static boolean testSwitch = false;
+    public static boolean testSwitch = false; //we will set to false to see if it updates to my end
     /**
      * The logger that will print important information.
      */
