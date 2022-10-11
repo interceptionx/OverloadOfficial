@@ -8,7 +8,7 @@ import com.ferox.game.world.World;
 import com.ferox.game.world.entity.mob.player.Player;
 import com.ferox.game.world.entity.mob.player.save.PlayerSave;
 import com.ferox.test.generic.PlayerProfileVerf;
-import com.ferox.util.DiscordWebhook;
+//import com.ferox.util.DiscordWebhook;
 import com.ferox.util.flood.Flooder;
 import com.google.common.base.Preconditions;
 import io.netty.util.ResourceLeakDetector;
