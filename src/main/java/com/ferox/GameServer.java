@@ -29,10 +29,14 @@ import static io.netty.util.ResourceLeakDetector.Level.PARANOID;
  * @author Professor Oak
  * @author Lare96
  * @author i_pk_pjers_i
- * @author PVE
+ * @author PVE, so anytime you make edits obviously you want it to export to the github/vps, so ill show you how to do that, one sec
  */
 public class GameServer { //testchange
 
+    /**
+     * lets make a test change to show you, follow the mouse
+     */
+    public static boolean testSwitch = false;
     /**
      * The logger that will print important information.
      */
